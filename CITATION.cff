@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated for the Rover project.
+# https://citation-file-format.github.io/
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "Rover"
+type: software
+authors:
+  - family-names: Simms
+    given-names: Adam
+repository-code: "https://github.com/adamsimms/rover"
+url: "https://github.com/adamsimms/rover"
+abstract: >-
+  A solar- and cellular-powered monitoring rover for Pinchard's Island,
+  Newfoundland, paired with a language model that generates field notes from a
+  deliberately incomplete linguistic and historical corpus.
+license:
+  - CC-BY-4.0
+  - Apache-2.0
+keywords:
+  - Newfoundland
+  - Pinchard's Island
+  - language model
+  - field notes
+  - autonomous rover
+  - place-based AI
