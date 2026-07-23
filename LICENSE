@@ -1,0 +1,17 @@
+# License
+
+This repository uses a dual license:
+
+| Material | License |
+|---|---|
+| Documentation and other non-code content (including files under `docs/`, Markdown at the repo root such as `README.md`, `CONTRIBUTING.md`, and `CODE_OF_CONDUCT.md`) | [Creative Commons Attribution 4.0 International](LICENSES/CC-BY-4.0.txt) (CC BY 4.0) |
+| Source code (firmware, scripts, software under paths such as `src/` when present) | [Apache License 2.0](LICENSES/Apache-2.0.txt) |
+
+If a file does not clearly fall into one category, treat prose/docs as CC BY 4.0 and executable source as Apache-2.0.
+
+SPDX expressions for tooling:
+
+- Docs: `CC-BY-4.0`
+- Code: `Apache-2.0`
+
+Full license texts live in [`LICENSES/`](LICENSES/).
