@@ -14,4 +14,4 @@ alwaysApply: true
 - Dual license: CC BY 4.0 (docs), Apache-2.0 (software). See LICENSE.
 - Prefer label `software` over `firmware`.
 - Avoid the word "master" in new user-facing text, docs, comments, and identifiers.
-- Foundation then Milestone 1 (Concept & feasibility) — no due dates required unless the artist sets them.
+- Foundation then Milestone 1 (Concept & feasibility) — boards: R&D, Funding, Residencies. No due dates required unless the artist sets them.
