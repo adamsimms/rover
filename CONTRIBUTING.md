@@ -6,7 +6,7 @@ Thanks for your interest in Rover.
 
 1. Read the [README](README.md) and [docs/concept/conceptual-core.md](docs/concept/conceptual-core.md).
 2. Review the [Code of Conduct](CODE_OF_CONDUCT.md) and [SECURITY.md](SECURITY.md).
-3. Check [open issues](https://github.com/adamsimms/rover/issues), [Discussions](https://github.com/adamsimms/rover/discussions), and the [Rover — R&D](https://github.com/users/adamsimms/projects/3) board.
+3. Check [open issues](https://github.com/adamsimms/rover/issues), [Discussions](https://github.com/adamsimms/rover/discussions), and the project boards: [R&D](https://github.com/users/adamsimms/projects/3), [Funding](https://github.com/users/adamsimms/projects/4), [Residencies](https://github.com/users/adamsimms/projects/5).
 
 ## What helps
 

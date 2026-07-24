@@ -12,7 +12,7 @@ How Rover is managed in the open. One repo. No parallel public schedule elsewher
 |---|---|---|
 | Issues | Atomic tasks; track tags (`hardware`, `software`, `fabrication`, `testing`, `funding`, `docs`, `concept`, `site`, `consent`, `model`, `residency`, …); funding Issues track apply/submit/decision *tasks*, not essay content; residency-linked funding is separate from research/creation grant packages | Decision log; application essays |
 | Milestones | Due-date groupings; manual buffer checkpoints (no external critical-path tool) | A second copy of every Issue description |
-| Projects (Roadmap) | Public timeline/status by quarter | Automatic critical-path engine |
+| Projects (Roadmap) | Public boards by track: R&D, Funding, Residencies | Automatic critical-path engine; one Issue on every board |
 | Discussions · Announcements | Occasional public journal | Mirror of Issues |
 | Discussions · Ideas | Open research before a decision (RFC) | Resolved ADRs (those go in `docs/`) |
 | Wiki | Runbooks, glossary, FAQ, how-to-help (when seeded) | Duplicate of `docs/` |

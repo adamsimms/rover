@@ -29,9 +29,13 @@ See [docs/OPERATING-MODEL.md](docs/OPERATING-MODEL.md).
 
 ## GitHub Projects
 
-Active board: **[Rover — R&D](https://github.com/users/adamsimms/projects/3)** (concept, feasibility, public build path; Milestones 0–1+).
+| Board | Role |
+|-------|------|
+| **[Rover — R&D](https://github.com/users/adamsimms/projects/3)** | Concept, feasibility, hardware/software spikes, permissions, consent docs |
+| **[Rover — Funding](https://github.com/users/adamsimms/projects/4)** | Research/creation budgets, timeline, program fit; later Milestone 2 grant package |
+| **[Rover — Residencies](https://github.com/users/adamsimms/projects/5)** | Shortlist, shared package, post-acceptance residency funding (CALQ/CAC etc.) |
 
-Noted for later (not created yet): Build, Deploy, Outputs — only when a real pain point appears.
+Later (only if needed): Build, Deploy, Outputs.
 
 ## Documentation
 

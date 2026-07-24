@@ -13,17 +13,20 @@ Also: [README.md](README.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE](LICE
 
 ## GitHub Projects
 
-- Active: **[Rover — R&D](https://github.com/users/adamsimms/projects/3)**  
-- Later (do not create until needed): Build / Deploy / Outputs boards as real pain points appear  
+| Board | Role |
+|-------|------|
+| **[Rover — R&D](https://github.com/users/adamsimms/projects/3)** | Concept, feasibility, spikes, permissions, consent docs |
+| **[Rover — Funding](https://github.com/users/adamsimms/projects/4)** | Research/creation money/timeline/fit; Milestone 2 grant package |
+| **[Rover — Residencies](https://github.com/users/adamsimms/projects/5)** | Shortlist, package resources, post-acceptance residency funding |
 
-Put M1 work on R&D. Do not invent parallel boards without an explicit ask.
+Do not invent additional boards without an explicit ask. Put Issues on the board that owns the track (an Issue should not live on all three).
 
 ## Hard rules
 
 - Do **not** invent site permissions, family/community consent, funder commitments, or corpus/training rights.
 - Do **not** commit training corpora, copyrighted dictionary/archive dumps, chassis CAD/HTML mockups, or large binaries unless an issue **explicitly** asks and the artist confirms.
 - Do **not** publish Little Bay Islands consent-sensitive material or funder essay/ask amounts where terms restrict discussion. See the private boundary in [docs/OPERATING-MODEL.md](docs/OPERATING-MODEL.md).
-- Device name **Fielding** may be used; do **not** expand the literary homage in public docs until permission is confirmed. Project title remains open.
+- Device name **Fielding** may be used; do **not** expand the literary homage in public docs until permission is confirmed.
 - Corpus: describe *intent* only until rights are cleared — never imply licensed training reuse.
 - Dual license: docs/non-code → CC BY 4.0; software → Apache-2.0. See [LICENSE](LICENSE).
 - Never use the word “master” in new user-facing text, docs, comments, or identifiers (prefer *default branch*, *canonical*, *primary*).
