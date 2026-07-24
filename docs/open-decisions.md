@@ -17,4 +17,4 @@ Register of decisions that are still open in public. When something resolves, mo
 
 Add rows freely. Prefer Issues for *tasks* that implement a decision; keep this register for the decision itself.
 
-Milestone 1: [Concept & feasibility](https://github.com/adamsimms/rover/milestone/2) · Projects: [R&D](https://github.com/users/adamsimms/projects/3) · [Funding](https://github.com/users/adamsimms/projects/4) · [Residencies](https://github.com/users/adamsimms/projects/5).
+Milestone 1: [Concept & feasibility](https://github.com/adamsimms/rover/milestone/2) · Milestone 2: [Residencies](https://github.com/adamsimms/rover/milestone/3) · Milestone 3: [Research & creation funding](https://github.com/adamsimms/rover/milestone/4) · Projects: [R&D](https://github.com/users/adamsimms/projects/3) · [Funding](https://github.com/users/adamsimms/projects/4) · [Residencies](https://github.com/users/adamsimms/projects/5).

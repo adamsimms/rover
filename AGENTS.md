@@ -16,10 +16,10 @@ Also: [README.md](README.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE](LICE
 | Board | Role |
 |-------|------|
 | **[Rover — R&D](https://github.com/users/adamsimms/projects/3)** | Concept, feasibility, spikes, permissions, consent docs |
-| **[Rover — Funding](https://github.com/users/adamsimms/projects/4)** | Research/creation money/timeline/fit; Milestone 2 grant package |
-| **[Rover — Residencies](https://github.com/users/adamsimms/projects/5)** | Shortlist, package resources, post-acceptance residency funding |
+| **[Rover — Funding](https://github.com/users/adamsimms/projects/4)** | Research/creation money/timeline/fit; Milestone 3 grant package |
+| **[Rover — Residencies](https://github.com/users/adamsimms/projects/5)** | Shortlist, package; Milestone 2 apply wave; post-acceptance residency funding |
 
-Do not invent additional boards without an explicit ask. Put Issues on the board that owns the track (an Issue should not live on all three).
+Milestones: **1** Concept & feasibility → **2** Residencies → **3** Research & creation funding. Do not invent additional boards without an explicit ask. Put Issues on the board that owns the track (an Issue should not live on all three). Per-application Issues are created when targets are chosen.
 
 ## Hard rules
 

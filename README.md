@@ -32,8 +32,16 @@ See [docs/OPERATING-MODEL.md](docs/OPERATING-MODEL.md).
 | Board | Role |
 |-------|------|
 | **[Rover — R&D](https://github.com/users/adamsimms/projects/3)** | Concept, feasibility, hardware/software spikes, permissions, consent docs |
-| **[Rover — Funding](https://github.com/users/adamsimms/projects/4)** | Research/creation budgets, timeline, program fit; later Milestone 2 grant package |
-| **[Rover — Residencies](https://github.com/users/adamsimms/projects/5)** | Shortlist, shared package, post-acceptance residency funding (CALQ/CAC etc.) |
+| **[Rover — Funding](https://github.com/users/adamsimms/projects/4)** | Research/creation budgets and Milestone 3 grant package |
+| **[Rover — Residencies](https://github.com/users/adamsimms/projects/5)** | Shortlist, package, Milestone 2 apply wave, post-acceptance residency funding |
+
+### Milestones
+
+1. [Concept & feasibility](https://github.com/adamsimms/rover/milestone/2)
+2. [Residencies](https://github.com/adamsimms/rover/milestone/3)
+3. [Research & creation funding](https://github.com/adamsimms/rover/milestone/4)
+
+Per-application Issues (residencies or CALQ / Canada Council, etc.) are added when targets are chosen — not as one mega-submit Issue.
 
 Later (only if needed): Build, Deploy, Outputs.
 
