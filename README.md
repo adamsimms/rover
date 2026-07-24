@@ -16,9 +16,9 @@ One public repo. Roles stay separate:
 
 | Surface | Job |
 |---|---|
-| **Issues** | Atomic build/firmware/funding *tasks* (not essays or decision prose) |
-| **Milestones** | Due-date groupings; manual schedule checkpoints (seeded in a later pass) |
-| **Projects** | Public roadmap view (seeded later) |
+| **Issues** | Atomic build/software/funding *tasks* (not essays or decision prose) |
+| **Milestones** | Due-date groupings; manual schedule checkpoints |
+| **Projects** | Public roadmap — see below |
 | **Discussions** | Announcements (public journal) vs Ideas (open research before a decision) |
 | **Wiki** | Runbooks / glossary / FAQ once seeded; prefer PRs to `docs/` for durable text |
 | **`docs/`** | Canonical public write-ups and the open-decisions register |
@@ -26,6 +26,12 @@ One public repo. Roles stay separate:
 Private working drafts stay in a local Obsidian vault and are published outward only when adapted. What stays out of this repo: funder-restricted application content, personal fallback finances, and anything that discusses living people in a consent-sensitive situation without their consent.
 
 See [docs/OPERATING-MODEL.md](docs/OPERATING-MODEL.md).
+
+## GitHub Projects
+
+Active board: **[Rover — R&D](https://github.com/users/adamsimms/projects/3)** (concept, feasibility, public build path; Milestones 0–1+).
+
+Noted for later (not created yet): Build, Deploy, Outputs — only when a real pain point appears.
 
 ## Documentation
 
@@ -35,13 +41,13 @@ See [docs/OPERATING-MODEL.md](docs/OPERATING-MODEL.md).
 
 ## Getting started
 
-This first ship is documentation only. There is no runnable training pipeline or checked-in firmware yet.
+This first ship is documentation only. There is no runnable training pipeline or checked-in onboard software yet.
 
 Hardware target (high level): Raspberry Pi 5, LTE modem, camera payload, LiFePO4 battery with heating, rover-mounted solar — designed for long unattended deployment. Details will land in `docs/` as decisions resolve.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). Do not open PRs that dump copyrighted training text or corpora.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md), [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), and [SECURITY.md](SECURITY.md). Agents: start at [AGENTS.md](AGENTS.md). Do not open PRs that dump copyrighted training text or corpora.
 
 ## License
 

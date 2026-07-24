@@ -10,7 +10,7 @@ How Rover is managed in the open. One repo. No parallel public schedule elsewher
 
 | Surface | Job | Not this job |
 |---|---|---|
-| Issues | Atomic tasks; track tags (`fabrication`, `firmware`, `testing`, `funding`, `docs`); funding Issues track apply/submit/decision *tasks*, not essay content | Decision log; application essays |
+| Issues | Atomic tasks; track tags (`hardware`, `software`, `fabrication`, `testing`, `funding`, `docs`, `concept`, `site`, `consent`, `model`, …); funding Issues track apply/submit/decision *tasks*, not essay content | Decision log; application essays |
 | Milestones | Due-date groupings; manual buffer checkpoints (no external critical-path tool) | A second copy of every Issue description |
 | Projects (Roadmap) | Public timeline/status by quarter | Automatic critical-path engine |
 | Discussions · Announcements | Occasional public journal | Mirror of Issues |

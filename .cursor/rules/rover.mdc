@@ -1,0 +1,17 @@
+---
+description: Rover project constraints for agents
+globs:
+alwaysApply: true
+---
+
+# Rover
+
+- Canonical docs live under `docs/` (conceptual-core, OPERATING-MODEL, open-decisions).
+- Do not invent permissions, consent, corpus rights, or funding facts.
+- Do not commit training corpora, CAD/HTML chassis mockups, or large binaries unless an issue explicitly asks.
+- Soft public naming: Fielding OK; no full literary homage until permission lands. Corpus = intent only.
+- Private boundary: funder-restricted application content, personal fallback finances, LBI consent-sensitive material.
+- Dual license: CC BY 4.0 (docs), Apache-2.0 (software). See LICENSE.
+- Prefer label `software` over `firmware`.
+- Avoid the word "master" in new user-facing text, docs, comments, and identifiers.
+- Foundation then Milestone 1 (Concept & feasibility) — no due dates required unless the artist sets them.
