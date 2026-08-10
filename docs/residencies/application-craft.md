@@ -1,6 +1,6 @@
 # Application craft (lessons from Artica / #52)
 
-Reusable framing and process notes from the Artica Svalbard Independently Funded Residency application (**submitted 2026-08-10** for a 2027 stay). **Essays stay in Sketchpad** (`Sketchpad/residencies/calls/artica-*.md`). This page is process and guardrails only.
+Reusable framing and process notes from the Artica Svalbard Independently Funded Residency application (**submitted 2026-08-10** for a 2027 stay). As-submitted packet: [submissions/artica-2027/](submissions/artica-2027/). Working drafts stay in Sketchpad. This page is process and guardrails only.
 
 Canonical concept: [conceptual-core.md](../concept/conceptual-core.md).
 
@@ -55,16 +55,17 @@ Informal host networking (e.g. First Friday Coffee Club) is resident hygiene, no
 - Printer / introductions / engagement logistics: firm needs in plain language; tone still self-led.
 - Access: keep honest and short; do not invent requirements.
 
-## Process pattern (Sketchpad)
+## Process pattern (Sketchpad → submissions)
 
 For a heavy call, keep a print-ready answers file separate from the research call file:
 
-- `Sketchpad/residencies/calls/<slug>-application-responses.md` — form-field answers, word counts, notes for artist voice
+- `Sketchpad/residencies/calls/<slug>-application-responses.md` — form-field answers, word counts, notes for artist voice (while drafting)
 - `Sketchpad/residencies/calls/<slug>.md` or `<slug>-*.md` — research, guardrails, submit checklist
+- On submit → promote into [submissions/](submissions/)<slug>/ (see [submissions/README.md](submissions/README.md))
 
 Do not paste full essays into GitHub Issues. Confirm CV size / page format and portfolio strength before upload.
 
 ## Related
 
-- Binder: [README.md](README.md) · [package.md](package.md) · [adaptation.md](adaptation.md)
-- Artica apply (#52), why (#72), proposal (#78): **submitted 2026-08-10** (issues closed).
+- Binder: [README.md](README.md) · [package.md](package.md) · [adaptation.md](adaptation.md) · [submissions/](submissions/)
+- Artica apply (#52), why (#72), proposal (#78): **submitted 2026-08-10** (issues closed) · [packet](submissions/artica-2027/).

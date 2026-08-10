@@ -1,6 +1,12 @@
 # Residencies binder
 
-Public index for the residency apply wave. **Draft essays and CVs stay local** (`Sketchpad/residencies/core/` — git-ignored). This folder holds process, checklists, and pointers only.
+Public index for the residency apply wave.
+
+| Layer | Job |
+|-------|-----|
+| This folder | Process, checklists, craft lessons |
+| [submissions/](submissions/) | **As-submitted** packets (tracked archive) |
+| `Sketchpad/residencies/` (local) | Working drafts — git-ignored |
 
 Canonical concept for all adaptations: [conceptual-core.md](../concept/conceptual-core.md).
 
@@ -11,8 +17,18 @@ Canonical concept for all adaptations: [conceptual-core.md](../concept/conceptua
 | [package.md](package.md) | Reusable core checklist (shared across calls) |
 | [adaptation.md](adaptation.md) | Per-call adaptation checklist + binder index |
 | [application-craft.md](application-craft.md) | Framing and process lessons (from Artica #52 submit; reusable) |
+| [submissions/](submissions/) | Promoted as-submitted texts per call |
 | `Sketchpad/residencies/core/` (local) | Working drafts: statement, proposal, timeline, bio, portfolio index |
-| `Sketchpad/residencies/calls/` (local) | Per-call research + print-ready answers (git-ignored) |
+| `Sketchpad/residencies/calls/` (local) | Per-call research + print-ready answers while drafting |
+
+## Promote on submit
+
+1. Draft in Sketchpad.
+2. Submit the form; note confirmation on the apply Issue.
+3. Copy as-submitted texts into `submissions/<slug>/` (redact phone, street address, restricted ask amounts).
+4. Link the packet from [adaptation.md](adaptation.md) and [submissions/README.md](submissions/README.md).
+
+Full rule: [submissions/README.md](submissions/README.md).
 
 ## Issues
 
@@ -25,4 +41,4 @@ Canonical concept for all adaptations: [conceptual-core.md](../concept/conceptua
 
 ## Private boundary
 
-Do not commit application essays, exact ask amounts where restricted, or consent-sensitive living-people detail. See [OPERATING-MODEL.md](../OPERATING-MODEL.md).
+Do not commit phone numbers, street addresses, exact ask amounts where restricted, or consent-sensitive living-people detail. As-submitted essays may be tracked after redaction when the artist chooses to archive them here. See [OPERATING-MODEL.md](../OPERATING-MODEL.md).

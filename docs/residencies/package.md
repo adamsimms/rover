@@ -1,6 +1,6 @@
 # Reusable core package
 
-Shared materials adapted per residency. Drafts live in local `Sketchpad/residencies/core/` (not in git). Check items off here or on [#28](https://github.com/adamsimms/rover/issues/28) as they become usable.
+Shared materials adapted per residency. Drafts live in local `Sketchpad/residencies/core/` (not in git). As-submitted call packets live in [submissions/](submissions/). Check items off here or on [#28](https://github.com/adamsimms/rover/issues/28) as they become usable.
 
 **#28 owns universal texts only.** Call-specific proposal / why-this-place (and OBORO tech+budget) are sub-issues of each apply Issue. Some applies now live on sibling repos — see [adaptation.md](adaptation.md).
 

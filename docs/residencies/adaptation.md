@@ -10,6 +10,7 @@ How to turn the [reusable core](package.md) into one submission. Per-call Issues
 4. Optional: copy drafts into `Sketchpad/residencies/calls/<slug>.md`; for heavy forms, keep a print-ready `*-application-responses.md` beside the research call file.
 5. Cut to word limits; fill form; check off the Issue checklist; note confirmation on the Issue. Reuse patterns in [application-craft.md](application-craft.md).
 6. Do not paste full essays into GitHub Issues.
+7. **Promote:** copy as-submitted texts into [submissions/](submissions/)<slug>/ (redact phone, street address, restricted amounts); link from this binder and [submissions/README.md](submissions/README.md). Keep Sketchpad as the live draft for the next call.
 
 ## Binder index (apply wave)
 
@@ -17,10 +18,10 @@ How to turn the [reusable core](package.md) into one submission. Per-call Issues
 
 | Issue | Program | Due | Lead | Call-specific |
 |-------|---------|-----|------|---------------|
-| [#48](https://github.com/adamsimms/rover/issues/48) | Arteles SAE | 2026-07-30 | Rover (submitted) | Why [#68](https://github.com/adamsimms/rover/issues/68) · Focus plan [#76](https://github.com/adamsimms/rover/issues/76) |
-| [#49](https://github.com/adamsimms/rover/issues/49) | La Wayaka Desert | 2026-07-31 | Rover (submitted) | Why [#69](https://github.com/adamsimms/rover/issues/69) |
-| [#50](https://github.com/adamsimms/rover/issues/50) | Museum of Loss (Italy) | 2026-08-31 | Rover (submitted) | Why [#70](https://github.com/adamsimms/rover/issues/70) |
-| [#52](https://github.com/adamsimms/rover/issues/52) | Artica indep. funded | 2026-08-31 | Rover (submitted) | Why [#72](https://github.com/adamsimms/rover/issues/72) · Proposal [#78](https://github.com/adamsimms/rover/issues/78) · [application-craft.md](application-craft.md) |
+| [#48](https://github.com/adamsimms/rover/issues/48) | Arteles SAE | 2026-07-30 | Rover (submitted) | Why [#68](https://github.com/adamsimms/rover/issues/68) · Focus plan [#76](https://github.com/adamsimms/rover/issues/76) · [packet](submissions/arteles-sae-2027/) |
+| [#49](https://github.com/adamsimms/rover/issues/49) | La Wayaka Desert | 2026-07-31 | Rover (submitted) | Why [#69](https://github.com/adamsimms/rover/issues/69) · [packet](submissions/la-wayaka-desert-2026/) |
+| [#50](https://github.com/adamsimms/rover/issues/50) | Museum of Loss (Italy) | 2026-08-31 | Rover (submitted) | Why [#70](https://github.com/adamsimms/rover/issues/70) · [packet](submissions/museum-of-loss-2026/) |
+| [#52](https://github.com/adamsimms/rover/issues/52) | Artica indep. funded | 2026-08-31 | Rover (submitted) | Why [#72](https://github.com/adamsimms/rover/issues/72) · Proposal [#78](https://github.com/adamsimms/rover/issues/78) · [application-craft.md](application-craft.md) · [packet](submissions/artica-2027/) |
 | [#53](https://github.com/adamsimms/rover/issues/53) | Grenfell / BBARS | — | Rover (**hold** — capacity / outcomes) | Why [#73](https://github.com/adamsimms/rover/issues/73) · Project note [#79](https://github.com/adamsimms/rover/issues/79) |
 | [#55](https://github.com/adamsimms/rover/issues/55) | Banff photo Leighton | 2026-10-14 | Rover — **images + field notes** | Why [#75](https://github.com/adamsimms/rover/issues/75) · ~2pp proposal [#81](https://github.com/adamsimms/rover/issues/81) |
 

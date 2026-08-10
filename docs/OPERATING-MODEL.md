@@ -16,7 +16,7 @@ How Rover is managed in the open. One repo. No parallel public schedule elsewher
 | Discussions · Announcements | Occasional public journal | Mirror of Issues |
 | Discussions · Ideas | Open research before a decision (RFC) | Resolved ADRs (those go in `docs/`) |
 | Wiki | Runbooks, glossary, FAQ, how-to-help (when seeded) | Duplicate of `docs/` |
-| `docs/` | Parts/BOM notes, firmware reference, open-decisions register, settled decision records (ADR) | Private grant essays |
+| `docs/` | Parts/BOM notes, software reference, open-decisions register, settled decision records (ADR), as-submitted residency packets (redacted) | Working drafts; restricted ask amounts; unredacted contact details |
 
 **Rule:** if two formats start tracking the same thing, one of them is wrong.
 
@@ -50,15 +50,15 @@ Configure under each Project’s **⋯ → Workflows**. No custom Actions requir
 
 Only these stay out of the public repo by default:
 
-1. **Application content** (essays, exact ask amounts) where a funder’s terms restrict public discussion during review — check per program.
+1. **Restricted application content** — exact ask amounts (and essays) where a funder’s terms restrict public discussion during review — check per program. After submit, as-submitted residency essays may be archived under `docs/residencies/submissions/` once phone, street address, and still-restricted amounts are redacted.
 2. **Personal fallback financial numbers** — personal disclosure. What the rover *costs to build* can be public maker-log content.
 3. **Consent-sensitive discussion of living people** (including site strategies that name people who have not consented to being discussed).
 
 Build costs, open engineering tradeoffs, consent *protocols* (as practice, once published), and funding *tasks* are fair game.
 
-## Vault → public
+## Vault / Sketchpad → public
 
-A private Obsidian vault holds working drafts. Specific notes are copied and adapted into `docs/` or the Wiki when public-ready. Originals stay in the vault. Nothing moves wholesale.
+A private Obsidian vault and local `Sketchpad/` hold working drafts. Specific notes are copied and adapted into `docs/` or the Wiki when public-ready. **On residency submit**, promote a redacted as-submitted packet into `docs/residencies/submissions/` so the record is referenceable in git. Originals stay in the vault / Sketchpad. Nothing moves wholesale.
 
 ## Schedule of record
 
