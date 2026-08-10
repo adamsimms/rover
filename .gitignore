@@ -29,3 +29,7 @@ node_modules/
 
 # Logs
 *.log
+
+# Local playground (Markdown, images, spikes). Git-ignored; Cursor can still read it.
+# Create locally if missing: mkdir Sketchpad
+/Sketchpad/

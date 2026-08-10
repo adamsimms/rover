@@ -9,7 +9,11 @@ Rover is developed primarily with Cursor, in the open. Prefer **one milestone (o
 3. [docs/open-decisions.md](docs/open-decisions.md) — open decision register  
 4. [docs/decisions/](docs/decisions/) — settled ADRs (when present)  
 
-Also: [README.md](README.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE](LICENSE), [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), [SECURITY.md](SECURITY.md).
+Also: [README.md](README.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE](LICENSE), [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), [SECURITY.md](SECURITY.md), residency process [docs/residencies/](docs/residencies/) (incl. [application-craft.md](docs/residencies/application-craft.md)).
+
+## Local Sketchpad
+
+`Sketchpad/` is a git-ignored local playground (drafts, images, spikes). Cursor may read it as context; never commit its contents. Create with `mkdir Sketchpad` if missing. Not a substitute for the private boundary in [docs/OPERATING-MODEL.md](docs/OPERATING-MODEL.md).
 
 ## GitHub Projects
 
@@ -19,7 +23,7 @@ Also: [README.md](README.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE](LICE
 | **[Rover — Funding](https://github.com/users/adamsimms/projects/4)** | Research/creation money/timeline/fit; Milestone 3 grant package |
 | **[Rover — Residencies](https://github.com/users/adamsimms/projects/5)** | Shortlist, package; Milestone 2 apply wave; post-acceptance residency funding |
 
-Milestones: **1** Concept & feasibility → **2** Residencies → **3** Research & creation funding. Do not invent additional boards without an explicit ask. Put Issues on the board that owns the track (an Issue should not live on all three). Per-application Issues are created when targets are chosen.
+Milestones: **1** Concept & feasibility → **2** Residencies → **3** Research & creation funding. Do not invent additional boards without an explicit ask. Put Issues on the board that owns the track (an Issue should not live on all three). Per-application Issues are created when targets are chosen. Priority: label + Project field (`priority:urgent` / `high` / `medium` / `low`) — see [docs/OPERATING-MODEL.md](docs/OPERATING-MODEL.md).
 
 ## Hard rules
 
@@ -27,6 +31,7 @@ Milestones: **1** Concept & feasibility → **2** Residencies → **3** Research
 - Do **not** commit training corpora, copyrighted dictionary/archive dumps, chassis CAD/HTML mockups, or large binaries unless an issue **explicitly** asks and the artist confirms.
 - Do **not** publish Little Bay Islands consent-sensitive material or funder essay/ask amounts where terms restrict discussion. See the private boundary in [docs/OPERATING-MODEL.md](docs/OPERATING-MODEL.md).
 - Device name **Fielding** may be used; do **not** expand the literary homage in public docs until permission is confirmed.
+- Prefer *rover*, *device*, or *machine* over *instrument* in application and public prose.
 - Corpus: describe *intent* only until rights are cleared — never imply licensed training reuse.
 - Dual license: docs/non-code → CC BY 4.0; software → Apache-2.0. See [LICENSE](LICENSE).
 - Never use the word “master” in new user-facing text, docs, comments, or identifiers (prefer *default branch*, *canonical*, *primary*).

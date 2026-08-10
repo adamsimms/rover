@@ -10,6 +10,7 @@ alwaysApply: true
 - Do not invent permissions, consent, corpus rights, or funding facts.
 - Do not commit training corpora, CAD/HTML chassis mockups, or large binaries unless an issue explicitly asks.
 - Soft public naming: Fielding OK; no full literary homage until permission lands. Corpus = intent only.
+- Prefer *rover*, *device*, or *machine* over *instrument* in application and public prose (unless quoting an existing glossary term).
 - Private boundary: funder-restricted application content, personal fallback finances, LBI consent-sensitive material.
 - Dual license: CC BY 4.0 (docs), Apache-2.0 (software). See LICENSE.
 - Prefer label `software` over `firmware`.

@@ -48,8 +48,10 @@ Later (only if needed): Build, Deploy, Outputs.
 ## Documentation
 
 - [Conceptual core](docs/concept/conceptual-core.md)
+- [Guest protocol for Fielding](docs/consent/guest-protocol-fielding.md) (draft)
 - [Open decisions](docs/open-decisions.md)
 - [Operating model](docs/OPERATING-MODEL.md)
+- [Corpus research leads](docs/model/corpus-research.md) (intent only)
 
 ## Getting started
 
@@ -67,8 +69,11 @@ Dual license: **CC BY 4.0** for documentation and non-code content; **Apache-2.0
 
 ## References
 
-Links only — not an assertion of training rights:
+Links only — not an assertion of training rights. Expanding research leads: [docs/model/corpus-research.md](docs/model/corpus-research.md).
 
 - Dictionary of Newfoundland English (print and web editions; rights holders vary)
+- Encyclopedia of Newfoundland and Labrador (ENL) — rights/access path open
+- Dialect Atlas of Newfoundland and Labrador — see corpus research
 - Newfoundland resettlement and outport historical records (archives vary by collection)
+- MUNFLA / CNS / DAI / MUN ICH materials — see corpus research; [#20](https://github.com/adamsimms/rover/issues/20)
 - Related vocabulary and place-based artistic research will be cited here as permissions allow

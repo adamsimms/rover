@@ -8,9 +8,12 @@ That framing is why “getting it right” as pure engineering is not enough on 
 
 **Permissions:** specific published sources intended for the training corpus are not cleared for that use in this repository. Public docs describe the *intent* of training on fragments; they do not assert that those rights have been granted, and this repo does not include training text.
 
-**Naming:** the proposed device name is Fielding. Project title remains open. A longer literary justification for the device name is withheld from public materials until permission is confirmed.
+**Naming:** the proposed device name is Fielding. Project title remains open. A longer literary justification for the device name is withheld from public materials until permission is confirmed. Applications may omit the device name and use *rover / device / machine* when the homage cannot be explained (prefer those over *instrument*). Artica Independently Funded application (**submitted 2026-08-10**, for a 2027 stay) used working title *Uncertain Field Notes* (not a settled project title).
 
 ## Related docs
 
 - [Open decisions](../open-decisions.md)
 - [Operating model](../OPERATING-MODEL.md)
+- [Guest protocol for Fielding](../consent/guest-protocol-fielding.md) (draft)
+- [Corpus research leads](../model/corpus-research.md) (intent only)
+- [Residencies binder](../residencies/README.md)

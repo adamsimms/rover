@@ -1,0 +1,43 @@
+# Adaptation checklist & binder index
+
+How to turn the [reusable core](package.md) into one submission. Per-call Issues own the final submit checklist; this page is the shared pattern.
+
+## Per-call adaptation (do this for each apply Issue)
+
+1. Read the Issue summary + submission checklist.
+2. Pull **universal** texts from package #28 (statement, bio, CV, portfolio, facts/timeline as needed).
+3. Complete **call-specific** sub-issues under that apply Issue (proposal, why-this-place; OBORO also tech + budget on Dreamberry).
+4. Optional: copy drafts into `Sketchpad/residencies/calls/<slug>.md`; for heavy forms, keep a print-ready `*-application-responses.md` beside the research call file.
+5. Cut to word limits; fill form; check off the Issue checklist; note confirmation on the Issue. Reuse patterns in [application-craft.md](application-craft.md).
+6. Do not paste full essays into GitHub Issues.
+
+## Binder index (apply wave)
+
+### Still on Rover
+
+| Issue | Program | Due | Lead | Call-specific |
+|-------|---------|-----|------|---------------|
+| [#48](https://github.com/adamsimms/rover/issues/48) | Arteles SAE | 2026-07-30 | Rover (submitted) | Why [#68](https://github.com/adamsimms/rover/issues/68) · Focus plan [#76](https://github.com/adamsimms/rover/issues/76) |
+| [#49](https://github.com/adamsimms/rover/issues/49) | La Wayaka Desert | 2026-07-31 | Rover (submitted) | Why [#69](https://github.com/adamsimms/rover/issues/69) |
+| [#50](https://github.com/adamsimms/rover/issues/50) | Museum of Loss (Italy) | 2026-08-31 | Rover (submitted) | Why [#70](https://github.com/adamsimms/rover/issues/70) |
+| [#52](https://github.com/adamsimms/rover/issues/52) | Artica indep. funded | 2026-08-31 | Rover (submitted) | Why [#72](https://github.com/adamsimms/rover/issues/72) · Proposal [#78](https://github.com/adamsimms/rover/issues/78) · [application-craft.md](application-craft.md) |
+| [#53](https://github.com/adamsimms/rover/issues/53) | Grenfell / BBARS | — | Rover (**hold** — capacity / outcomes) | Why [#73](https://github.com/adamsimms/rover/issues/73) · Project note [#79](https://github.com/adamsimms/rover/issues/79) |
+| [#55](https://github.com/adamsimms/rover/issues/55) | Banff photo Leighton | 2026-10-14 | Rover — **images + field notes** | Why [#75](https://github.com/adamsimms/rover/issues/75) · ~2pp proposal [#81](https://github.com/adamsimms/rover/issues/81) |
+
+### Migrated / other repos
+
+| Issue | Program | Due | Lead | Notes |
+|-------|---------|-----|------|-------|
+| [dreamberry#43](https://github.com/adamsimms/dreamberry/issues/43) | OBORO research | 2026-09-15 | Dreamberry | Why [#44](https://github.com/adamsimms/dreamberry/issues/44) · Proposal [#45](https://github.com/adamsimms/dreamberry/issues/45) · Tech [#46](https://github.com/adamsimms/dreamberry/issues/46) · Budget [#47](https://github.com/adamsimms/dreamberry/issues/47) · (closed Rover #54 / #74 / #80 / #64 / #65) |
+| [glowberry#54](https://github.com/adamsimms/glowberry/issues/54) | Eastern Edge Studio (St. John's) | 2026-09-14 | Glowberry | Why [#55](https://github.com/adamsimms/glowberry/issues/55) · Proposal [#56](https://github.com/adamsimms/glowberry/issues/56) · (closed Rover #82) |
+| [glowberry#57](https://github.com/adamsimms/glowberry/issues/57) | The Rooms AIR (parks / Landfall) | 2026-11-02 | Glowberry | Why [#58](https://github.com/adamsimms/glowberry/issues/58) · Proposal [#59](https://github.com/adamsimms/glowberry/issues/59) · Public event [#60](https://github.com/adamsimms/glowberry/issues/60) |
+
+### Closed / paused
+
+| Issue | Program | Notes |
+|-------|---------|-------|
+| [#51](https://github.com/adamsimms/rover/issues/51) | Aviário self-directed | Paused — closed with #71 / #77 |
+
+## Priority reminder
+
+Apply-wave priorities follow due date on each repo’s board. Universal package work (#28) stays useful across leads until shared drafts are adaptable; call-specific writing follows each apply Issue’s priority.

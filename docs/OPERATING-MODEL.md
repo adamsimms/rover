@@ -10,15 +10,41 @@ How Rover is managed in the open. One repo. No parallel public schedule elsewher
 
 | Surface | Job | Not this job |
 |---|---|---|
-| Issues | Atomic tasks; track tags (`hardware`, `software`, `fabrication`, `testing`, `funding`, `docs`, `concept`, `site`, `consent`, `model`, `residency`, …); funding Issues track apply/submit/decision *tasks*, not essay content; residency-linked funding is separate from research/creation grant packages | Decision log; application essays |
+| Issues | Atomic tasks; track tags (`hardware`, `software`, `fabrication`, `testing`, `funding`, `docs`, `concept`, `site`, `consent`, `model`, `residency`, …); priority labels (`priority:urgent` / `high` / `medium` / `low`); funding Issues track apply/submit/decision *tasks*, not essay content; residency-linked funding is separate from research/creation grant packages | Decision log; application essays |
 | Milestones | Due-date groupings; manual buffer checkpoints (no external critical-path tool) | A second copy of every Issue description |
-| Projects (Roadmap) | Public boards by track: R&D, Funding, Residencies | Automatic critical-path engine; one Issue on every board |
+| Projects (Roadmap) | Public boards by track: R&D, Funding, Residencies; **Priority** field (Urgent → Low) mirrors the issue labels | Automatic critical-path engine; one Issue on every board |
 | Discussions · Announcements | Occasional public journal | Mirror of Issues |
 | Discussions · Ideas | Open research before a decision (RFC) | Resolved ADRs (those go in `docs/`) |
 | Wiki | Runbooks, glossary, FAQ, how-to-help (when seeded) | Duplicate of `docs/` |
 | `docs/` | Parts/BOM notes, firmware reference, open-decisions register, settled decision records (ADR) | Private grant essays |
 
 **Rule:** if two formats start tracking the same thing, one of them is wrong.
+
+## Priority
+
+Use the same four levels on issue labels and on each Project’s **Priority** field:
+
+| Level | Meaning |
+|---|---|
+| Urgent | Do next — blocks the critical path into residencies or grant packages |
+| High | Soon — needed for the current milestone’s outcomes |
+| Medium | Important but not blocking |
+| Low | Can wait / nice-to-have |
+
+Keep the label and the Project field in sync when priority changes.
+
+## Project automations
+
+Each board (R&D, Funding, Residencies) keeps Status and issue open/closed in sync via built-in workflows:
+
+| Workflow | Effect |
+|---|---|
+| **Auto-close issue** | Status → Done closes the Issue |
+| **Item closed** | Closing the Issue sets Status → Done |
+| **Pull request merged** | Merged PR sets Status → Done |
+| **Item added to project** | New items start as Todo |
+
+Configure under each Project’s **⋯ → Workflows**. No custom Actions required for this.
 
 ## Private boundary
 
