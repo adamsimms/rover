@@ -1,0 +1,21 @@
+---
+description: No em dashes or en dashes in new prose
+alwaysApply: true
+---
+
+# No em or en dashes
+
+Never use em dashes (—) or en dashes (–) in new user-facing text, docs, comments, emails, grant copy, commit messages, or chat replies for this project.
+
+Use plain alternatives:
+
+| Instead of | Use |
+|---|-----|
+| clause — clause | period, semicolon, colon, comma, or parentheses |
+| 2026–2027 | 2026-2027 (hyphen) |
+| pages 12–15 | pages 12-15 (hyphen) |
+| Leo — Addon | Leo (Addon) or Leo Addon |
+
+ASCII hyphen-minus `-` is fine for compound words, date ranges, and markdown list markers. Markdown thematic breaks (`---`) are fine.
+
+Existing files may still contain em/en dashes; do not introduce new ones. When editing prose the user is actively preparing to send or submit, strip them.

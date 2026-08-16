@@ -11,9 +11,20 @@ Rover is developed primarily with Cursor, in the open. Prefer **one milestone (o
 
 Also: [README.md](README.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE](LICENSE), [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), [SECURITY.md](SECURITY.md), residency process [docs/residencies/](docs/residencies/) (incl. [application-craft.md](docs/residencies/application-craft.md)).
 
-## Local Sketchpad
+## Private vault, docs, and Sketchpad
 
-`Sketchpad/` is a git-ignored local playground (drafts, images, spikes). Cursor may read it as context; never commit its contents. Create with `mkdir Sketchpad` if missing. Not a substitute for the private boundary in [docs/OPERATING-MODEL.md](docs/OPERATING-MODEL.md).
+Working notes live in a local Obsidian vault (not this repo). A gitignored Cursor rule names the path on this machine. Start at the Vault Index MOC, then one topical MOC. Do not copy restricted material into this repo. Public `docs/` are the adapted canon.
+
+| Fact | Source of truth |
+|------|-----------------|
+| Tasks and dates | GitHub Issues |
+| Public concept and submitted packets | `docs/` |
+| Private reasoning, restricted asks, named people | Vault |
+| Scratch files | `Sketchpad/`, then delete or promote |
+
+**Dual-write:** when a chat changes a decision, apply-wave status, or hardware shortlist, update the vault note and the public `docs/` twin in the same turn. Do not keep a live copy in Sketchpad. Long application drafts stay in the vault (or Sketchpad) until submit; then a redacted packet goes to `docs/residencies/submissions/`.
+
+`Sketchpad/` is a git-ignored local playground (drafts, images, spikes). Cursor may read it as context; never commit its contents. Create with `mkdir Sketchpad` if missing. Not a source of truth and not a substitute for the private boundary in [docs/OPERATING-MODEL.md](docs/OPERATING-MODEL.md).
 
 ## GitHub Projects
 

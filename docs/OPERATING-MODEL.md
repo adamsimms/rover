@@ -58,7 +58,16 @@ Build costs, open engineering tradeoffs, consent *protocols* (as practice, once 
 
 ## Vault / Sketchpad → public
 
-A private Obsidian vault and local `Sketchpad/` hold working drafts. Specific notes are copied and adapted into `docs/` or the Wiki when public-ready. **On residency submit**, promote a redacted as-submitted packet into `docs/residencies/submissions/` so the record is referenceable in git. Originals stay in the vault / Sketchpad. Nothing moves wholesale.
+| Layer | Job |
+|-------|-----|
+| Private Obsidian vault | Reasoning, restricted material, atomic research. Start at the Vault Index MOC. |
+| `docs/` | Public canon. Adapt outward; never copy the vault wholesale. |
+| GitHub Issues | Schedule and tasks. |
+| `Sketchpad/` | Throwaway spikes and images. Not a third source of truth. |
+
+**Dual-write:** if a decision, apply-wave status, or hardware shortlist changes, update the vault note and the public `docs/` twin in the same turn. Do not keep a live copy in Sketchpad.
+
+**On residency submit**, promote a redacted as-submitted packet into `docs/residencies/submissions/` so the record is referenceable in git. Originals stay in the vault. Nothing moves wholesale.
 
 ## Schedule of record
 

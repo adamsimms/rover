@@ -7,6 +7,7 @@ alwaysApply: true
 # Rover
 
 - Canonical docs live under `docs/` (conceptual-core, OPERATING-MODEL, open-decisions).
+- Private vault holds reasoning and restricted material. Start at the Vault Index MOC when the local vault rule is present. Dual-write decisions and status to `docs/` and the vault in the same turn. Sketchpad is scratch only.
 - Do not invent permissions, consent, corpus rights, or funding facts.
 - Do not commit training corpora, CAD/HTML chassis mockups, or large binaries unless an issue explicitly asks.
 - Soft public naming: Fielding OK; no full literary homage until permission lands. Corpus = intent only.

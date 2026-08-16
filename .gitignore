@@ -33,3 +33,7 @@ node_modules/
 # Local playground (Markdown, images, spikes). Git-ignored; Cursor can still read it.
 # Create locally if missing: mkdir Sketchpad
 /Sketchpad/
+
+# Machine-specific vault path and multi-root workspace (home-directory paths).
+.cursor/rules/vault-local.mdc
+*.code-workspace
