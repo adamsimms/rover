@@ -13,7 +13,7 @@ Also: [README.md](README.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE](LICE
 
 ## Private vault, docs, and Sketchpad
 
-Working notes live in a local Obsidian vault (not this repo). A gitignored Cursor rule names the path on this machine. Start at the Studio Vault Index, then the Rover project index, then one topical MOC. Sibling projects (Glowberry, Dreamberry, Camera Pi) share that vault under their own prefixes. Do not copy restricted material into this repo. Public `docs/` are the adapted canon.
+Working notes live in a local Obsidian vault (not this repo). A gitignored Cursor rule names the path on this machine. Start at the Studio Vault Index, then the Rover project index, then one topical MOC. Sibling projects (Glowberry, Dreamberry, Camera Philosophies) share that vault under their own prefixes. Do not copy restricted material into this repo. Public `docs/` are the adapted canon.
 
 | Fact | Source of truth |
 |------|-----------------|
@@ -25,6 +25,10 @@ Working notes live in a local Obsidian vault (not this repo). A gitignored Curso
 **Dual-write:** when a chat changes a decision, apply-wave status, or hardware shortlist, update the vault note and the public `docs/` twin in the same turn. Do not keep a live copy in Sketchpad. Long application drafts stay in the vault (or Sketchpad) until submit; then a redacted packet goes to `docs/residencies/submissions/`.
 
 `Sketchpad/` is a git-ignored local playground (drafts, images, spikes). Cursor may read it as context; never commit its contents. Create with `mkdir Sketchpad` if missing. Not a source of truth and not a substitute for the private boundary in [docs/OPERATING-MODEL.md](docs/OPERATING-MODEL.md).
+
+## Bibliography / Zotero
+
+Zotero is the PDF and source library (Rover collection, tags such as `rover`). The vault does not sync with it. CITATION notes may record optional `citekey` / `zotero` breadcrumbs. Do not query `~/Zotero/zotero.sqlite`. Do not invent citations or dump corpora. Sketchpad `import_*_to_zotero.py` scripts are one-shot imports, not agent tools.
 
 ## GitHub Projects
 
