@@ -1,6 +1,6 @@
 # Application craft (lessons from Artica / #52)
 
-Reusable framing and process notes from the Artica Svalbard Independently Funded Residency application (**submitted 2026-08-10** for a 2027 stay). As-submitted packet: [submissions/artica-2027/](submissions/artica-2027/). Working drafts stay in Sketchpad. This page is process and guardrails only.
+Reusable framing and process notes from the Artica Svalbard Independently Funded Residency application (**submitted 2026-08-10** for a 2027 stay). As-submitted packet: [submissions/artica-2027/](submissions/artica-2027/). Form drafts may stay in Sketchpad until submit. Apply-wave status lives in the vault Residencies MOC and the public binder. This page is process and guardrails only.
 
 Canonical concept: [conceptual-core.md](../concept/conceptual-core.md).
 
@@ -49,23 +49,26 @@ Informal host networking (e.g. First Friday Coffee Club) is resident hygiene, no
 
 **Artica submitted form (2026-08-10):** artist talk; Solfestuka open studio (mismatch live + shape behavior + no local training); leave copies with Artica / library if useful. Working title *Uncertain Field Notes*; device name held out; dates mid-Feb–mid-Mar 2027 (Oct alt); accommodation only; CCA + CALQ; LOI requested on form.
 
+**Host follow-up (2026-08-14):** Director emailed that Artica is in leadership transition and has **temporarily paused** the residency application process while reviewing 2027 plans; further programme/timeline info to follow. Public site still invited 2027 applications with no pause notice at that date — treat open calls as process-fragile until confirmed.
+
+
 ## Practical / access
 
 - Tell hosts what they must know: hardware as baggage, **lithium** clearance, outdoor testing, guides beyond a safety zone.
 - Printer / introductions / engagement logistics: firm needs in plain language; tone still self-led.
 - Access: keep honest and short; do not invent requirements.
 
-## Process pattern (Sketchpad → submissions)
+## Process pattern (drafts → submissions)
 
-For a heavy call, keep a print-ready answers file separate from the research call file:
+For a heavy call, keep a print-ready answers file separate from the research call file. Those files are scratch, not live status:
 
-- `Sketchpad/residencies/calls/<slug>-application-responses.md` — form-field answers, word counts, notes for artist voice (while drafting)
-- `Sketchpad/residencies/calls/<slug>.md` or `<slug>-*.md` — research, guardrails, submit checklist
-- On submit → promote into [submissions/](submissions/)<slug>/ (see [submissions/README.md](submissions/README.md))
+- `Sketchpad/residencies/calls/<slug>-application-responses.md`: form-field answers, word counts, notes for artist voice (while drafting)
+- `Sketchpad/residencies/calls/<slug>.md` or `<slug>-*.md`: research, guardrails, submit checklist
+- On submit: promote into [submissions/](submissions/)<slug>/ (see [submissions/README.md](submissions/README.md)) and dual-write status to the vault Residencies MOC
 
 Do not paste full essays into GitHub Issues. Confirm CV size / page format and portfolio strength before upload.
 
 ## Related
 
 - Binder: [README.md](README.md) · [package.md](package.md) · [adaptation.md](adaptation.md) · [submissions/](submissions/)
-- Artica apply (#52), why (#72), proposal (#78): **submitted 2026-08-10** (issues closed) · [packet](submissions/artica-2027/).
+- Artica apply (#52), why (#72), proposal (#78): **submitted 2026-08-10** (issues closed) · [packet](submissions/artica-2027/). **Host paused 2026-08-14** (leadership transition; awaiting programme update).

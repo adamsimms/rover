@@ -6,7 +6,8 @@ Public index for the residency apply wave.
 |-------|-----|
 | This folder | Process, checklists, craft lessons |
 | [submissions/](submissions/) | **As-submitted** packets (tracked archive) |
-| `Sketchpad/residencies/` (local) | Working drafts — git-ignored |
+| `Sketchpad/residencies/` (local) | Form drafts while writing (git-ignored). Not live status. |
+| Vault Residencies MOC | Apply-wave status and decisions. Dual-write with this binder when status changes. |
 
 Canonical concept for all adaptations: [conceptual-core.md](../concept/conceptual-core.md).
 
@@ -18,15 +19,15 @@ Canonical concept for all adaptations: [conceptual-core.md](../concept/conceptua
 | [adaptation.md](adaptation.md) | Per-call adaptation checklist + binder index |
 | [application-craft.md](application-craft.md) | Framing and process lessons (from Artica #52 submit; reusable) |
 | [submissions/](submissions/) | Promoted as-submitted texts per call |
-| `Sketchpad/residencies/core/` (local) | Working drafts: statement, proposal, timeline, bio, portfolio index |
-| `Sketchpad/residencies/calls/` (local) | Per-call research + print-ready answers while drafting |
+| `Sketchpad/residencies/core/` (local) | Form drafts while writing: statement, proposal, timeline, bio, portfolio index |
+| `Sketchpad/residencies/calls/` (local) | Per-call research + print-ready answers while drafting. Not live status. |
 
 ## Promote on submit
 
-1. Draft in Sketchpad.
+1. Draft form answers in Sketchpad (scratch only).
 2. Submit the form; note confirmation on the apply Issue.
 3. Copy as-submitted texts into `submissions/<slug>/` (redact phone, street address, restricted ask amounts).
-4. Link the packet from [adaptation.md](adaptation.md) and [submissions/README.md](submissions/README.md).
+4. Dual-write apply-wave status to the vault Residencies MOC and this binder. Do not keep Sketchpad as a status board.
 
 Full rule: [submissions/README.md](submissions/README.md).
 
