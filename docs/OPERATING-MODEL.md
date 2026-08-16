@@ -60,7 +60,7 @@ Build costs, open engineering tradeoffs, consent *protocols* (as practice, once 
 
 | Layer | Job |
 |-------|-----|
-| Private Obsidian vault | Reasoning, restricted material, atomic research. Start at the Vault Index MOC. |
+| Private Obsidian vault | Reasoning, restricted material, atomic research. Start at the Studio Vault Index, then the Rover project index. |
 | `docs/` | Public canon. Adapt outward; never copy the vault wholesale. |
 | GitHub Issues | Schedule and tasks. |
 | `Sketchpad/` | Throwaway spikes and images. Not a third source of truth. |

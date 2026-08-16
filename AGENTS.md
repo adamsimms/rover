@@ -13,7 +13,7 @@ Also: [README.md](README.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE](LICE
 
 ## Private vault, docs, and Sketchpad
 
-Working notes live in a local Obsidian vault (not this repo). A gitignored Cursor rule names the path on this machine. Start at the Vault Index MOC, then one topical MOC. Do not copy restricted material into this repo. Public `docs/` are the adapted canon.
+Working notes live in a local Obsidian vault (not this repo). A gitignored Cursor rule names the path on this machine. Start at the Studio Vault Index, then the Rover project index, then one topical MOC. Sibling projects (Glowberry, Dreamberry, Camera Pi) share that vault under their own prefixes. Do not copy restricted material into this repo. Public `docs/` are the adapted canon.
 
 | Fact | Source of truth |
 |------|-----------------|
