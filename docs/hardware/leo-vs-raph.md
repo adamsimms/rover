@@ -2,7 +2,7 @@
 
 **Date:** 2026-08-06  
 **Purpose:** Grant-tier Fictionlab shortlist: side-by-side platform, add-ons, cost stacks, and how they sit vs Husarion Lynx for dock + cellular.  
-**Public canon** for this shortlist. Related vault notes (not a copy of this page): `MOCs/Rover - MOC - Chassis and Drivetrain.md`, `MOCs/Rover - MOC - Engineering Precedents.md`, `Atomic Notes/Rover - CITATION - Commercial rover survey findings - Leo Rover, Jackal, Husky, and others.md`. Dual-write a shortlist change to those MOCs in the same turn.  
+**Public canon** for this shortlist. Related vault notes (not a copy of this page): `Rover/MOCs/Rover - MOC - Chassis and Drivetrain.md`, `Rover/MOCs/Rover - MOC - Engineering Precedents.md`, `Rover/Notes/Rover - CITATION - Commercial rover survey findings - Leo Rover, Jackal, Husky, and others.md`. Dual-write a shortlist change to those MOCs in the same turn.  
 **Related:** [conceptual-core](../concept/conceptual-core.md).
 
 **Context (artist answers, 2026-08-06):** funding path TBD; lidar desirable; better still quality preferred; include charging/dock from day one; cellular vs solar Wi‑Fi open (may favor Lynx for LTE-in-box); ship to **Canada** unless Europe trip pickup.
