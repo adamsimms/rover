@@ -11,7 +11,7 @@ Shared materials adapted per residency. Drafts live in local `Sketchpad/residenc
 | Facts sheet (project one-liner, site intent, hardware sketch, naming) | `00-facts.md` | Accurate vs [conceptual-core](../concept/conceptual-core.md); no invented permissions — [#56](https://github.com/adamsimms/rover/issues/56) |
 | Artist statement (long + short cuts) | `01-artist-statement.md` | Usable at ~250 and ~150–200 words |
 | Bio variants | `04-bio.md` | 150-word and 200-word cuts |
-| CV / resume notes | `05-cv-notes.md` | 1–2 page (and optional 3–4 page) PDF outside repo; export path noted |
+| CV / resume notes | `05-cv-notes.md` | 1-2 page residency PDF; Long PDF; **CCA 3-page Letter cut locked 2026-08-19** (local `Sketchpad/residencies/core/Simms_CV_2026_CCA.pdf`, Figma `CV / CCA - Letter`). Not in git. |
 | Portfolio default | website | Most calls ask for [art.adamsimms.xyz](https://art.adamsimms.xyz) (not a PDF index) — [#62](https://github.com/adamsimms/rover/issues/62) closed |
 
 ~~Shared ~2-year residency timeline~~ — cancelled ([#59](https://github.com/adamsimms/rover/issues/59)); schedule / unfolding language is per call. Funding-track timeline remains [#25](https://github.com/adamsimms/rover/issues/25) if needed.
