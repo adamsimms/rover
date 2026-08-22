@@ -15,6 +15,8 @@ That framing is why “getting it right” as pure engineering is not enough on 
 ## Related docs
 
 - [Open decisions](../open-decisions.md)
+- [Hardware and power feasibility](../hardware/feasibility.md)
+- [Leo vs Raph grant-tier comparison](../hardware/leo-vs-raph.md)
 - [Operating model](../OPERATING-MODEL.md)
 - [Guest protocol for Fielding](../consent/guest-protocol-fielding.md) (draft)
 - [Corpus research leads](../model/corpus-research.md) (intent only)

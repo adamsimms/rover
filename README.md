@@ -48,6 +48,8 @@ Later (only if needed): Build, Deploy, Outputs.
 ## Documentation
 
 - [Conceptual core](docs/concept/conceptual-core.md)
+- [Hardware and power feasibility](docs/hardware/feasibility.md) (Milestone 1; estimates until spikes close)
+- [Leo vs Raph grant-tier comparison](docs/hardware/leo-vs-raph.md)
 - [Guest protocol for Fielding](docs/consent/guest-protocol-fielding.md) (draft)
 - [Open decisions](docs/open-decisions.md)
 - [Operating model](docs/OPERATING-MODEL.md)
@@ -57,7 +59,7 @@ Later (only if needed): Build, Deploy, Outputs.
 
 This first ship is documentation only. There is no runnable training pipeline or checked-in onboard software yet.
 
-Hardware target (high level): Raspberry Pi 5, LTE modem, camera payload, LiFePO4 battery with heating, rover-mounted solar — designed for long unattended deployment. Details will land in `docs/` as decisions resolve.
+Hardware target (high level): three tiers — Year-1 PoC (Waveshare Beast + Pi 5), grant-tier commercial shortlist, and a custom winter Fielding build long range. See [hardware feasibility](docs/hardware/feasibility.md). Details update as spikes and quotes close ([#10](https://github.com/adamsimms/rover/issues/10)).
 
 ## Contributing
 

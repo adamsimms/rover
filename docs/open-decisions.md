@@ -16,6 +16,8 @@ Register of decisions that are still open in public. When something resolves, mo
 | OD-009 | Camera architecture lock | Open | Documented; evidence spike [#16](https://github.com/adamsimms/rover/issues/16) |
 | OD-010 | Witty Pi wake-on-charge | Open | [#18](https://github.com/adamsimms/rover/issues/18) |
 | OD-012 | Pinchard's Island deployment model | Settled | Ongoing but **maintained, removable, consent- and site-access-gated**, leave-no-trace (nothing physically left behind); **not** left unattended or abandoned. Decided 2026-08-18; supersedes earlier "unattended record" framing in [application-craft.md](residencies/application-craft.md). |
+| OD-013 | Platform tiering (PoC vs grant-tier vs full build) | Open | Lean **Beast Year-1 PoC** → grant funding decides **Leo / Raph / Lynx / custom winter Fielding**; vault DIY BOM band applies to full build only. [#87](https://github.com/adamsimms/rover/issues/87); public comparison [hardware/leo-vs-raph.md](hardware/leo-vs-raph.md) |
+| OD-014 | Cellular modem architecture | Open | USB duty-cycled vs **Sixfab Base HAT + EC25** (or Waveshare SIM7600); Canada bands; power-off between uploads. [#88](https://github.com/adamsimms/rover/issues/88) |
 
 Add rows freely. Prefer Issues for *tasks* that implement a decision; keep this register for the decision itself.
 
