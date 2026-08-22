@@ -18,6 +18,7 @@ Canonical concept for all adaptations: [conceptual-core.md](../concept/conceptua
 | [package.md](package.md) | Reusable core checklist (shared across calls) |
 | [adaptation.md](adaptation.md) | Per-call adaptation checklist + binder index |
 | [application-craft.md](application-craft.md) | Framing and process lessons (from Artica #52 submit; reusable) |
+| [Field-note voice](../concept/field-note-voice.md) | How a sample note is written (lookup, not training) |
 | [submissions/](submissions/) | Promoted as-submitted texts per call |
 | `Sketchpad/residencies/core/` (local) | Form drafts while writing: statement, proposal, timeline, bio, portfolio index |
 | `Sketchpad/residencies/calls/` (local) | Per-call research + print-ready answers while drafting. Not live status. |
@@ -37,7 +38,7 @@ Full rule: [submissions/README.md](submissions/README.md).
 |-------|------|
 | [#28](https://github.com/adamsimms/rover/issues/28) | Package resources — shared drafts |
 | [#34](https://github.com/adamsimms/rover/issues/34) | Adaptation checklist / binder index |
-| Rover apply Issues | Still-on-Rover submits — see [adaptation.md](adaptation.md) (Banff #55 images+notes; Grenfell #53 on hold; submitted Rover wave #48–#50, #52) |
+| Rover apply Issues | Still-on-Rover submits — see [adaptation.md](adaptation.md) (Banff #55 images+notes; Grenfell #53 on hold; submitted Rover wave #48–#50, #52; CC International Residencies funding #85 submitted 2026-08-22) |
 | Other repos | OBORO → [dreamberry#43](https://github.com/adamsimms/dreamberry/issues/43); Eastern Edge → [glowberry#54](https://github.com/adamsimms/glowberry/issues/54); The Rooms AIR → [glowberry#57](https://github.com/adamsimms/glowberry/issues/57) |
 
 ## Private boundary

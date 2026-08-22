@@ -25,6 +25,13 @@ How to turn the [reusable core](package.md) into one submission. Per-call Issues
 | [#53](https://github.com/adamsimms/rover/issues/53) | Grenfell / BBARS | — | Rover (**hold** — capacity / outcomes) | Why [#73](https://github.com/adamsimms/rover/issues/73) · Project note [#79](https://github.com/adamsimms/rover/issues/79) |
 | [#55](https://github.com/adamsimms/rover/issues/55) | Banff photo Leighton | 2026-10-14 | Rover — **images + field notes** | Why [#75](https://github.com/adamsimms/rover/issues/75) · ~2pp proposal [#81](https://github.com/adamsimms/rover/issues/81) |
 
+### Funding (residency participation)
+
+| Issue | Program | Submitted | Lead | Packet |
+|-------|---------|-----------|------|--------|
+| [#85](https://github.com/adamsimms/rover/issues/85) | Canada Council International Residencies (6605) | 2026-08-22 | Rover | [packet](submissions/cc-international-residencies-chile-2026/) · host stay [#49](https://github.com/adamsimms/rover/issues/49) |
+| [#86](https://github.com/adamsimms/rover/issues/86) | CALQ Exploration and Research | — | Rover (draft) | Complementary to #85; no double-pay |
+
 ### Migrated / other repos
 
 | Issue | Program | Due | Lead | Notes |
