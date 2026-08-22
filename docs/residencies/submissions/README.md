@@ -25,7 +25,7 @@ Do **not** paste full essays into GitHub Issues. Do **not** promote CV PDFs or p
 | [cc-international-residencies-chile-2026](cc-international-residencies-chile-2026/) | Canada Council International Residencies (La Wayaka stay) | 2026-08-22 | [#85](https://github.com/adamsimms/rover/issues/85) | Full portal texts |
 | [museum-of-loss-2026](museum-of-loss-2026/) | Museum of Loss / Taking Time | 2026-08-02 | [#50](https://github.com/adamsimms/rover/issues/50) | Motivation + relevance + access |
 
-Not yet promoted (still drafting or on hold): Banff [#55](https://github.com/adamsimms/rover/issues/55), Grenfell [#53](https://github.com/adamsimms/rover/issues/53). Sibling-repo applies (OBORO / Eastern Edge / The Rooms) archive on those repos when submitted.
+Not yet promoted (still drafting): Banff [#55](https://github.com/adamsimms/rover/issues/55). Cancelled for now: Grenfell [#53](https://github.com/adamsimms/rover/issues/53) (2026-08-22). Sibling-repo applies (OBORO / Eastern Edge / The Rooms) archive on those repos when submitted.
 
 ## Private boundary
 

@@ -22,7 +22,6 @@ How to turn the [reusable core](package.md) into one submission. Per-call Issues
 | [#49](https://github.com/adamsimms/rover/issues/49) | La Wayaka Desert | 2026-07-31 | Rover (submitted) | Why [#69](https://github.com/adamsimms/rover/issues/69) · [packet](submissions/la-wayaka-desert-2026/) |
 | [#50](https://github.com/adamsimms/rover/issues/50) | Museum of Loss (Italy) | 2026-08-31 | Rover (submitted) | Why [#70](https://github.com/adamsimms/rover/issues/70) · [packet](submissions/museum-of-loss-2026/) |
 | [#52](https://github.com/adamsimms/rover/issues/52) | Artica indep. funded | Submitted 2026-08-10 · **host paused 2026-08-14** (leadership transition; 2027 plans under review) | Rover | Why [#72](https://github.com/adamsimms/rover/issues/72) · Proposal [#78](https://github.com/adamsimms/rover/issues/78) · [application-craft.md](application-craft.md) · [packet](submissions/artica-2027/) |
-| [#53](https://github.com/adamsimms/rover/issues/53) | Grenfell / BBARS | — | Rover (**hold** — capacity / outcomes) | Why [#73](https://github.com/adamsimms/rover/issues/73) · Project note [#79](https://github.com/adamsimms/rover/issues/79) |
 | [#55](https://github.com/adamsimms/rover/issues/55) | Banff photo Leighton | 2026-10-14 | Rover — **images + field notes** | Why [#75](https://github.com/adamsimms/rover/issues/75) · ~2pp proposal [#81](https://github.com/adamsimms/rover/issues/81) |
 
 ### Funding (residency participation)
@@ -45,6 +44,7 @@ How to turn the [reusable core](package.md) into one submission. Per-call Issues
 | Issue | Program | Notes |
 |-------|---------|-------|
 | [#51](https://github.com/adamsimms/rover/issues/51) | Aviário self-directed | Paused — closed with #71 / #77 |
+| [#53](https://github.com/adamsimms/rover/issues/53) | Grenfell / BBARS self-funded | **Cancelled for now** (2026-08-22) — capacity on La Wayaka + CC submit #85; reopen to restart outreach. Sub-issues #73 / #79 closed. |
 
 ## Priority reminder
 

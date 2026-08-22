@@ -10,7 +10,7 @@ Register of decisions that are still open in public. When something resolves, mo
 | OD-004 | Language-model training / serving stack | Open | [#15](https://github.com/adamsimms/rover/issues/15) (includes Phase 0 LM PoC samples) |
 | OD-005 | Monitoring dashboard design | Open | Later milestone — out of M1 |
 | OD-006 | Location framing for applications | Open | [#17](https://github.com/adamsimms/rover/issues/17); Artica necessity spine used in submit 2026-08-10 — see [residencies/application-craft.md](residencies/application-craft.md) |
-| OD-007 | Residency shortlist | Settled | Binder [residencies/](residencies/). Rover wave submitted: #48–#50, #52. Active Rover: Banff #55 (images+field notes), Grenfell #53 (hold). Migrated: OBORO → Dreamberry; Eastern Edge + The Rooms AIR → Glowberry. Aviário paused. |
+| OD-007 | Residency shortlist | Settled | Binder [residencies/](residencies/). Rover wave submitted: #48–#50, #52. Active Rover: Banff #55 (images+field notes). Grenfell #53 cancelled for now (2026-08-22). Migrated: OBORO → Dreamberry; Eastern Edge + The Rooms AIR → Glowberry. Aviário paused. CC International Residencies #85 submitted 2026-08-22. |
 | OD-011 | Project title (public / applications) | Open | Still open in [conceptual-core](concept/conceptual-core.md). Artica submit used *Uncertain Field Notes*; short Cloudberry-family titles remain candidates. Device name often held out of apps — see [application-craft.md](residencies/application-craft.md) |
 | OD-008 | Program / discipline fit | Open | [#26](https://github.com/adamsimms/rover/issues/26) |
 | OD-009 | Camera architecture lock | Open | Documented; evidence spike [#16](https://github.com/adamsimms/rover/issues/16) |
