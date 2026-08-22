@@ -15,6 +15,7 @@ Register of decisions that are still open in public. When something resolves, mo
 | OD-008 | Program / discipline fit | Open | [#26](https://github.com/adamsimms/rover/issues/26) |
 | OD-009 | Camera architecture lock | Open | Documented; evidence spike [#16](https://github.com/adamsimms/rover/issues/16) |
 | OD-010 | Witty Pi wake-on-charge | Open | [#18](https://github.com/adamsimms/rover/issues/18) |
+| OD-012 | Pinchard's Island deployment model | Settled | Ongoing but **maintained, removable, consent- and site-access-gated**, leave-no-trace (nothing physically left behind); **not** left unattended or abandoned. Decided 2026-08-18; supersedes earlier "unattended record" framing in [application-craft.md](residencies/application-craft.md). |
 
 Add rows freely. Prefer Issues for *tasks* that implement a decision; keep this register for the decision itself.
 

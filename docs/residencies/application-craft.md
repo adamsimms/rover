@@ -30,8 +30,9 @@ Hosts that screen for place-specificity (Artica: High Arctic only if required) n
 - Opening **question hook** can work; the next sentence after any intervening context must bridge (*From those fragments I am building…*), not float (*My response is…*).
 - Name **intangible heritage** and real archive *sources* as material the work draws on; never imply licensed training reuse or a formal archive partnership until one exists.
 - AI contrast (fluent industry vs fragmentary, borne and safeguarded, open system) is strong when it serves the work, not as a tech rant.
-- State the **endgame** (later unattended record on Pinchard’s) and the **residency outcomes** (components, image/text experiments, clearer path) so the host sees a four-week job, not only a concept.
+- State the **endgame** (a later maintained, removable, consent-gated record on Pinchard’s: a guest presence kept up and recoverable, not an abandoned machine) and the **residency outcomes** (components, image/text experiments, clearer path) so the host sees a four-week job, not only a concept.
 - Prefer `software` over `firmware` in application language.
+- Sample field notes (image + lookup letter): follow [field-note voice](../concept/field-note-voice.md). Device name held out of a packet still means no Fielding sign-off on the page.
 
 ## Public engagement
 

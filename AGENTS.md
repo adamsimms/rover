@@ -9,7 +9,7 @@ Rover is developed primarily with Cursor, in the open. Prefer **one milestone (o
 3. [docs/open-decisions.md](docs/open-decisions.md) — open decision register  
 4. [docs/decisions/](docs/decisions/) — settled ADRs (when present)  
 
-Also: [README.md](README.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE](LICENSE), [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), [SECURITY.md](SECURITY.md), residency process [docs/residencies/](docs/residencies/) (incl. [application-craft.md](docs/residencies/application-craft.md)).
+Also: [README.md](README.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE](LICENSE), [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), [SECURITY.md](SECURITY.md), residency process [docs/residencies/](docs/residencies/) (incl. [application-craft.md](docs/residencies/application-craft.md)), field-note voice [docs/concept/field-note-voice.md](docs/concept/field-note-voice.md).
 
 ## Private vault, docs, and Sketchpad
 
