@@ -20,12 +20,13 @@ Do **not** paste full essays into GitHub Issues. Do **not** promote CV PDFs or p
 | Slug | Program | Submitted | Issue | Packet |
 |------|---------|-----------|-------|--------|
 | [artica-2027](artica-2027/) | Artica Independently Funded (Svalbard) | 2026-08-10 · **paused 2026-08-14** | [#52](https://github.com/adamsimms/rover/issues/52) | Form responses |
-| [arteles-sae-2027](arteles-sae-2027/) | Arteles SAE Winter 2027 | 2026-07-30 window | [#48](https://github.com/adamsimms/rover/issues/48) | Form answers (YOU fields filled on live form) |
+| [arteles-sae-2027](arteles-sae-2027/) | Arteles SAE Winter 2027 | 2026-07-30 window · **accepted** 1 Feb–1 Mar 2027 | [#48](https://github.com/adamsimms/rover/issues/48) | Form answers (YOU fields filled on live form) |
 | [la-wayaka-desert-2026](la-wayaka-desert-2026/) | La Wayaka Desert 23°S | 2026-08-02 | [#49](https://github.com/adamsimms/rover/issues/49) | Statement + bio + comments |
 | [cc-international-residencies-chile-2026](cc-international-residencies-chile-2026/) | Canada Council International Residencies (La Wayaka stay) | 2026-08-22 | [#85](https://github.com/adamsimms/rover/issues/85) | Full portal texts |
 | [museum-of-loss-2026](museum-of-loss-2026/) | Museum of Loss / Taking Time | 2026-08-02 | [#50](https://github.com/adamsimms/rover/issues/50) | Motivation + relevance + access |
+| [eastern-edge-studio-2028](https://github.com/adamsimms/glowberry/blob/main/docs/residencies/submissions/eastern-edge-studio-2028/) | Eastern Edge Studio Residencies (St. John's) | 2026-09-14 | [glowberry#54](https://github.com/adamsimms/glowberry/issues/54) | Form texts (archived on glowberry) |
 
-Not yet promoted (still drafting): Banff [#55](https://github.com/adamsimms/rover/issues/55). Cancelled for now: Grenfell [#53](https://github.com/adamsimms/rover/issues/53) (2026-08-22). Sibling-repo applies (OBORO / Eastern Edge / The Rooms) archive on those repos when submitted.
+Not yet promoted (still drafting): Banff [#55](https://github.com/adamsimms/rover/issues/55). Cancelled for now: Grenfell [#53](https://github.com/adamsimms/rover/issues/53) (2026-08-22). Sibling-repo applies still drafting: OBORO / Eastern Edge Main Gallery / The Rooms.
 
 ## Private boundary
 
