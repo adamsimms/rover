@@ -15,14 +15,19 @@
 | File | Role |
 |------|------|
 | [application.md](application.md) | As-submitted portal texts (Activity, Impact, timeline, budget, support copy) |
+| [Simms_CV_2026_CCA.pdf](Simms_CV_2026_CCA.pdf) | 3-page Canada Council CV (shipped 2026-08-19) |
+| [CCA-Chile-support-images-landscape.pdf](CCA-Chile-support-images-landscape.pdf) | Ten landscape support pages as one PDF |
+| [CCA-Chile-application-print-v10.pdf](CCA-Chile-application-print-v10.pdf) | Print export of the portal draft used at submit |
 
-## Support material (not in git)
+Figma source: [CCA Chile support pages](https://www.figma.com/design/juGfnAcH6brPkKSkgnPfde/CCA-Chile-support-pages?node-id=0-1). Inventory: [#37](https://github.com/adamsimms/rover/issues/37). Three Vimeo weblinks (Driftwood, Light House, Mug Up) were portal URLs, not files.
 
-Uploaded separately: CCA 3-page CV (`Simms_CV_2026_CCA.pdf`, local); host letter and program PDF; ten audiovisual JPEGs (`Desktop/cca-chile-support-01-07/`); three Vimeo weblinks (Driftwood, Light House, Mug Up). Figma source: CCA Chile support pages.
+## Still missing from this archive
+
+Host acceptance letter and program PDF were uploaded to the portal and are not in this folder. Add them here if a local copy turns up.
 
 ## Sibling
 
-Complementary CALQ Exploration and Research submit (no double-pay): [#86](https://github.com/adamsimms/rover/issues/86).
+Complementary CALQ Exploration and Research draft: [#86](https://github.com/adamsimms/rover/issues/86) (separate project from 2026-11-20; Leo prototype; **Chile costs stay on this CCA file only**). Arteles CALQ is [dreamberry#50](https://github.com/adamsimms/dreamberry/issues/50).
 
 ## Follow-up
 
