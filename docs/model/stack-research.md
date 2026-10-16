@@ -22,7 +22,7 @@ Path B (still open): start from a capable small open model, then constrain or fi
 
   **Rover use:** studio-side Path B once rights clear: adapt a small open model, export GGUF for onboard serve. **Not** the onboard inference engine. **Not** a substitute for cited dictionary lookup. Do not treat Studio search / RAG / agent features as Fielding's method. If any Unsloth code enters this repo, prefer Core (Apache-2.0) so it matches Rover software licensing.
 
-## Still open on [#15](https://github.com/adamsimms/rover/issues/15) (LM approach + Phase 0 samples)
+## Still open on [#15](https://github.com/adamsimms/rover/issues/15) (Language-model approach)
 
 - Model class for the writer (not the router)
 - How bounded, cited fragments work mechanically

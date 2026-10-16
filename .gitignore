@@ -37,3 +37,6 @@ node_modules/
 # Machine-specific vault path and multi-root workspace (home-directory paths).
 .cursor/rules/vault-local.mdc
 *.code-workspace
+
+# Local screenshots / dumps (not project source)
+/assets/

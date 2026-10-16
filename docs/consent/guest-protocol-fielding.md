@@ -45,7 +45,7 @@ Folded from [#84](https://github.com/adamsimms/rover/issues/84) into this page u
 ## Relation to other consent work
 
 - Living-contributor / interview consent: separate process ([#22](https://github.com/adamsimms/rover/issues/22); vault Outputs consent protocol).
-- Public ethics writeup: this page ([#13](https://github.com/adamsimms/rover/issues/13) closed 2026-10-16). Guest-speech refusal samples track with LM Phase 0 on [#15](https://github.com/adamsimms/rover/issues/15) (refusals folded from [#83](https://github.com/adamsimms/rover/issues/83)).
+- Public ethics writeup: this page ([#13](https://github.com/adamsimms/rover/issues/13) closed 2026-10-16). Guest-speech refusal samples track with [#15](https://github.com/adamsimms/rover/issues/15) Language-model approach (refusals folded from [#83](https://github.com/adamsimms/rover/issues/83)).
 - Corpus rights: [#19](https://github.com/adamsimms/rover/issues/19)–[#21](https://github.com/adamsimms/rover/issues/21).
 
 Status: draft for M1. Revise when site permissions, LM behavior, or site consent process lock.
