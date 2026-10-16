@@ -2,7 +2,7 @@
 
 Shared materials adapted per residency. Drafts live in local `Sketchpad/residencies/core/` (not in git). As-submitted call packets live in [submissions/](submissions/). Check items off here or on [#28](https://github.com/adamsimms/rover/issues/28) as they become usable.
 
-**#28 owns universal texts only.** Call-specific proposal / why-this-place (and OBORO tech+budget) are sub-issues of each apply Issue. Some applies now live on sibling repos — see [adaptation.md](adaptation.md).
+**#28 owns universal texts only.** Call-specific proposal / why-this-place (and OBORO tech+budget) now live on each apply Issue. Eastern Edge Studio: [glowberry#54](https://github.com/adamsimms/glowberry/issues/54). Eastern Edge Main Gallery: [dreamberry#49](https://github.com/adamsimms/dreamberry/issues/49). The Rooms: [glowberry#57](https://github.com/adamsimms/glowberry/issues/57). OBORO: [dreamberry#43](https://github.com/adamsimms/dreamberry/issues/43). Banff [#55](https://github.com/adamsimms/rover/issues/55) cancelled. Some applies live on sibling repos — see [adaptation.md](adaptation.md).
 
 ## Universal core pieces
 
@@ -13,8 +13,9 @@ Shared materials adapted per residency. Drafts live in local `Sketchpad/residenc
 | Bio variants | `04-bio.md` | 150-word and 200-word cuts |
 | CV / resume notes | `05-cv-notes.md` | 1-2 page residency PDF; Long PDF; **CCA 3-page Letter cut locked 2026-08-19** (local `Sketchpad/residencies/core/Simms_CV_2026_CCA.pdf`, Figma `CV / CCA - Letter`). Not in git. |
 | Portfolio default | website | Most calls ask for [art.adamsimms.xyz](https://art.adamsimms.xyz) (not a PDF index) — [#62](https://github.com/adamsimms/rover/issues/62) closed |
+| Work-sample set (funding) | Figma [CCA Chile support pages](https://www.figma.com/design/juGfnAcH6brPkKSkgnPfde/CCA-Chile-support-pages?node-id=0-1) | Ten landscape JPEGs + three Vimeo weblinks. Used on [#85](https://github.com/adamsimms/rover/issues/85). Locations on [#37](https://github.com/adamsimms/rover/issues/37). Local exports: `Desktop/cca-chile-support-01-07/` |
 
-~~Shared ~2-year residency timeline~~ — cancelled ([#59](https://github.com/adamsimms/rover/issues/59)); schedule / unfolding language is per call. Funding-track timeline remains [#25](https://github.com/adamsimms/rover/issues/25) if needed.
+~~Shared ~2-year residency timeline~~ — cancelled ([#59](https://github.com/adamsimms/rover/issues/59)); schedule / unfolding language is per call. ~~Funding-track ~2-year timeline~~ — cancelled ([#25](https://github.com/adamsimms/rover/issues/25)); schedule stays on Issues/Milestones.
 | Topical opener (AI book-ingestion vs fragmentary corpus) | `11-topical-opener-ai-books.md` | Optional proposal lead-in; vault implication linked; corpus = intent only |
 | Website sync | — | [#67](https://github.com/adamsimms/rover/issues/67) |
 
@@ -22,8 +23,8 @@ Shared materials adapted per residency. Drafts live in local `Sketchpad/residenc
 
 | Kind | Where tracked | Local draft pattern |
 |------|---------------|---------------------|
-| Project proposal / focus plan | Sub-issue of each apply Issue (e.g. Banff [#81](https://github.com/adamsimms/rover/issues/81); OBORO [dreamberry#45](https://github.com/adamsimms/dreamberry/issues/45)) | `Sketchpad/residencies/calls/<slug>-proposal.md` · optional seed `core/02-project-proposal.md` |
-| Why this place | Sub-issue of each apply Issue | `calls/<slug>-why-this-place.md` · optional seed `core/07-why-this-place.md` |
+| Project proposal / focus plan | Per apply Issue (Eastern Edge Studio [glowberry#54](https://github.com/adamsimms/glowberry/issues/54); Eastern Edge Main Gallery [dreamberry#49](https://github.com/adamsimms/dreamberry/issues/49); The Rooms [glowberry#57](https://github.com/adamsimms/glowberry/issues/57); OBORO [dreamberry#43](https://github.com/adamsimms/dreamberry/issues/43)) | `Sketchpad/residencies/calls/<slug>-proposal.md` · optional seed `core/02-project-proposal.md` |
+| Why this place | Per apply Issue (Eastern Edge Studio [glowberry#54](https://github.com/adamsimms/glowberry/issues/54); Eastern Edge Main Gallery [dreamberry#49](https://github.com/adamsimms/dreamberry/issues/49); The Rooms [glowberry#57](https://github.com/adamsimms/glowberry/issues/57); OBORO [dreamberry#43](https://github.com/adamsimms/dreamberry/issues/43)) | `calls/<slug>-why-this-place.md` · optional seed `core/07-why-this-place.md` |
 | OBORO tech list + budget | [dreamberry#46](https://github.com/adamsimms/dreamberry/issues/46), [dreamberry#47](https://github.com/adamsimms/dreamberry/issues/47) under [dreamberry#43](https://github.com/adamsimms/dreamberry/issues/43) | Sketchpad under `calls/oboro-*.md` |
 
 ## Shared rules
@@ -31,7 +32,7 @@ Shared materials adapted per residency. Drafts live in local `Sketchpad/residenc
 - Device name **Fielding** OK; do not expand literary homage until permission lands. For some calls, **hold the device name out** and use *rover / device / machine* (homage still unexplained publicly) — see [application-craft.md](application-craft.md). Avoid *instrument*.
 - Corpus: describe *intent* only — never imply licensed training reuse. Name source archives as material; do not claim formal collaboration until it exists.
 - Prefer `software` over `firmware` in application language.
-- Location framing: keep public process only; see [#17](https://github.com/adamsimms/rover/issues/17).
+- Location framing: keep public process only; see [application-craft.md](application-craft.md) ([#17](https://github.com/adamsimms/rover/issues/17) cancelled).
 - Necessity / engagement / practical patterns: [application-craft.md](application-craft.md).
 
 ## Package done when
