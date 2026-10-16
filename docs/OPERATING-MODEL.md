@@ -10,7 +10,7 @@ How Rover is managed in the open. One repo. No parallel public schedule elsewher
 
 | Surface | Job | Not this job |
 |---|---|---|
-| Issues | Atomic tasks; track tags (`hardware`, `software`, `fabrication`, `testing`, `funding`, `docs`, `concept`, `site`, `consent`, `model`, `residency`, …); priority labels (`priority:urgent` / `high` / `medium` / `low`); funding Issues track apply/submit/decision *tasks*, not essay content; residency-linked funding is separate from research/creation grant packages | Decision log; application essays |
+| Issues | Atomic tasks; **kind and priority on labels only** (`hardware`, `software`, `fabrication`, `testing`, `funding`, `docs`, `concept`, `site`, `consent`, `model`, `residency`, …; `priority:urgent` / `high` / `medium` / `low`). Do not prefix titles with `[docs]`, `[funding]`, `[residency]`, etc. Funding Issues track apply/submit/decision *tasks*, not essay content; residency-linked funding is separate from research/creation grant packages | Decision log; application essays |
 | Milestones | Due-date groupings; manual buffer checkpoints (no external critical-path tool) | A second copy of every Issue description |
 | Projects (Roadmap) | Public boards by track: R&D, Funding, Residencies; **Priority** field (Urgent → Low) mirrors the issue labels | Automatic critical-path engine; one Issue on every board |
 | Discussions · Announcements | Occasional public journal | Mirror of Issues |

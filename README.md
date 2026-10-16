@@ -54,12 +54,13 @@ Later (only if needed): Build, Deploy, Outputs.
 - [Open decisions](docs/open-decisions.md)
 - [Operating model](docs/OPERATING-MODEL.md)
 - [Corpus research leads](docs/model/corpus-research.md) (intent only)
+- [Language-model stack research](docs/model/stack-research.md) (does not close OD-004)
 
 ## Getting started
 
 This first ship is documentation only. There is no runnable training pipeline or checked-in onboard software yet.
 
-Hardware target (high level): three tiers — Year-1 PoC (Waveshare Beast + Pi 5), grant-tier commercial shortlist, and a custom winter Fielding build long range. See [hardware feasibility](docs/hardware/feasibility.md). Details update as spikes and quotes close ([#10](https://github.com/adamsimms/rover/issues/10)).
+Hardware target (high level): three tiers. Year-1 PoC (Waveshare Beast + Pi 5), grant-tier commercial shortlist, and a custom winter Fielding build long range. See [hardware feasibility](docs/hardware/feasibility.md).
 
 ## Contributing
 
@@ -71,7 +72,7 @@ Dual license: **CC BY 4.0** for documentation and non-code content; **Apache-2.0
 
 ## References
 
-Links only — not an assertion of training rights. Expanding research leads: [docs/model/corpus-research.md](docs/model/corpus-research.md).
+Links only — not an assertion of training rights. Expanding research leads: [docs/model/corpus-research.md](docs/model/corpus-research.md). Stack software leads: [docs/model/stack-research.md](docs/model/stack-research.md).
 
 - Dictionary of Newfoundland English (print and web editions; rights holders vary)
 - Encyclopedia of Newfoundland and Labrador (ENL) — rights/access path open

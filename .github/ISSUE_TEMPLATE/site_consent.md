@@ -1,7 +1,6 @@
 ---
 name: Site / consent task
 about: Site research or consent outreach *tasks* (no private names/details)
-title: "[site] "
 labels: site
 ---
 

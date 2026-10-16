@@ -22,7 +22,8 @@ Thanks for your interest in Rover.
 
 - **Do not** open PRs or Issues that dump copyrighted dictionaries, archival scans, books, or other training corpora
 - **Do not** upload personal data, private family material, or discussions of living people in consent-sensitive situations
-- **Do not** treat Issues as a second decision log — use Discussions for open research, `docs/decisions/` once settled
+- **Do not** prefix Issue titles with `[docs]`, `[funding]`, `[residency]`, or similar. Kind lives on labels.
+- **Do not** treat Issues as a second decision log. Use Discussions for open research, `docs/decisions/` once settled.
 - **Do not** cold-contact families, communities, or rights holders on behalf of the project without coordinating in an issue first
 
 ## Process

@@ -1,7 +1,6 @@
 ---
 name: Funding task
 about: Apply / submit / decision tracking (not essay content)
-title: "[funding] "
 labels: funding
 ---
 

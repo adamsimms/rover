@@ -51,6 +51,7 @@ Milestones: **1** Concept & feasibility → **2** Residencies → **3** Research
 - Dual license: docs/non-code → CC BY 4.0; software → Apache-2.0. See [LICENSE](LICENSE).
 - Never use the word “master” in new user-facing text, docs, comments, or identifiers (prefer *default branch*, *canonical*, *primary*).
 - Prefer label `software` (not `firmware`) for onboard/control code issues.
+- Issue titles have **no** `[docs]` / `[funding]` / `[residency]` (or similar) prefix. Kind and priority live on GitHub labels (`docs`, `funding`, `residency`, `priority:*`, …) and the Project Priority field. Do not put `title: "[docs] "` (or equivalent) back into issue templates.
 
 ## Model routing (guidance)
 
