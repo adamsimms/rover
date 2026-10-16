@@ -1,6 +1,6 @@
 # Hardware and power feasibility
 
-**Status:** Working feasibility (2026-08-22). Figures are **estimates** from vendor pages and desk research until quotes ([#31](https://github.com/adamsimms/rover/issues/31)) and spikes close. Tracks Milestone 1 [#10](https://github.com/adamsimms/rover/issues/10).
+**Status:** Working feasibility (2026-08-22; Leo grant-tier quote closed 2026-10-16; [#10](https://github.com/adamsimms/rover/issues/10) closed). Grant-tier Leo stack is **Q** via Fictionlab offer NK8/08/2026 ([#31](https://github.com/adamsimms/rover/issues/31) closed); other lines may still be list-price **E**.
 
 **Related:** [conceptual core](../concept/conceptual-core.md) · [open decisions](../open-decisions.md) (OD-013 platform tiering, OD-014 cellular) · [Leo vs Raph grant-tier comparison](leo-vs-raph.md)
 
@@ -12,7 +12,7 @@ Fielding hardware is planned in **three tiers**. They serve different milestones
 
 | Tier | Role | Status |
 |------|------|--------|
-| **1. Year-1 PoC** | Supervised move → photograph → field-notes loop; optional summer Pinchard's and light snow tests | **Lean recorded** ([#87](https://github.com/adamsimms/rover/issues/87)); purchase not committed |
+| **1. Year-1 PoC** | Supervised move → photograph → field-notes loop; optional summer Pinchard's and light snow tests | **Lean recorded** ([#87](https://github.com/adamsimms/rover/issues/87) closed); purchase not committed |
 | **2. Grant-tier commercial** | Fictionlab Leo / Raph or Husarion Lynx if research/creation funding lands | Shortlist documented in [leo-vs-raph.md](leo-vs-raph.md) |
 | **3. Full Fielding build** | Custom winterized machine for long unattended duty (separate engineering spec) | Paper design; Witty Pi and enclosure spikes open ([#18](https://github.com/adamsimms/rover/issues/18)) |
 
@@ -164,13 +164,12 @@ Travel, site prep, contingency, carrier plans, and grant ask amounts are separat
 
 | Topic | Issue | What closes it |
 |-------|-------|----------------|
-| Public feasibility consolidation | [#10](https://github.com/adamsimms/rover/issues/10) | This doc + hedging review when spikes land |
-| Platform tier lock | [#87](https://github.com/adamsimms/rover/issues/87) | Artist confirms tier strategy; purchase decision separate |
+| Public feasibility consolidation | ~~[#10](https://github.com/adamsimms/rover/issues/10)~~ closed | This doc; update when #16 / #88 land |
 | Cellular modem + bands + duty cycle | [#88](https://github.com/adamsimms/rover/issues/88) | Bench mA + site/carrier validation |
 | Camera architecture | [#16](https://github.com/adamsimms/rover/issues/16) | Hands-on Pi HQ / NoIR / mux spike |
 | Witty Pi wake-on-charge | [#18](https://github.com/adamsimms/rover/issues/18) | Bench test for Tier 3 unattended path |
-| Written supplier quotes | [#31](https://github.com/adamsimms/rover/issues/31) | Replace E bands with Q where possible |
-| Extended-stack ethics (energy line) | [#84](https://github.com/adamsimms/rover/issues/84) | Checklist citing power/cellular choices |
+| Written supplier quotes | ~~[#31](https://github.com/adamsimms/rover/issues/31)~~ closed | Leo grant-tier **Q** (Fictionlab NK8/08/2026, €7,589). Beast PoC and other lines remain list-price **E** until buy. |
+| Extended-stack ethics (energy line) | [guest protocol](../consent/guest-protocol-fielding.md) (ex-[#84](https://github.com/adamsimms/rover/issues/84)) | Checklist citing power/cellular choices |
 
 ---
 

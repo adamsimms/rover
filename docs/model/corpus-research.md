@@ -1,6 +1,6 @@
 # Corpus research leads
 
-Public research pointers for materials that may inform the fragmentary language-model corpus. **Links and intent only** — not an assertion that any source is cleared for training, quotation beyond fair dealing, or redistribution. Do not commit archive dumps, encyclopedia text, or ICH inventory content into this repo. Rights work stays on [#19](https://github.com/adamsimms/rover/issues/19)–[#21](https://github.com/adamsimms/rover/issues/21) (OD-003).
+Public research pointers for materials that may inform the fragmentary language-model corpus. **Links and intent only** - not an assertion that any source is cleared for training, quotation beyond fair dealing, or redistribution. Do not commit archive dumps, encyclopedia text, or ICH inventory content into this repo. Rights work stays on [#19](https://github.com/adamsimms/rover/issues/19)-[#21](https://github.com/adamsimms/rover/issues/21) (OD-003). Training and serving software lives separately in [stack-research.md](stack-research.md).
 
 ## Encyclopedia of Newfoundland and Labrador (ENL)
 

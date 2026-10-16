@@ -20,5 +20,6 @@ That framing is why “getting it right” as pure engineering is not enough on 
 - [Operating model](../OPERATING-MODEL.md)
 - [Guest protocol for Fielding](../consent/guest-protocol-fielding.md) (draft)
 - [Corpus research leads](../model/corpus-research.md) (intent only)
+- [Language-model stack research](../model/stack-research.md) (does not close OD-004)
 - [Residencies binder](../residencies/README.md) · [as-submitted packets](../residencies/submissions/)
 - [Field-note voice](field-note-voice.md) (lookup prototype; working reference)

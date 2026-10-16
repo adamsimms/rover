@@ -172,14 +172,15 @@ If Pinchard’s / unsupervised remote is a near-term requirement, weight Lynx (o
 ## Mapping to Rover concept
 
 - Chassis still supports **observation → fragmentary field notes**, not perfection ([conceptual-core](../concept/conceptual-core.md)).  
-- Dock + rain-detect→home remains compatible with non-winter Fielding.  
-- Do not invent site permissions for Pinchard’s docks or cellular infrastructure.
+- **Year-1 ops (2026-08-31):** unattended = on the dock (or watched); off-dock supervised until return-to-dock is proven. Aligns with OD-012 (Pinchard's not left abandoned).  
+- RUTX11 GNSS (~2.5 m) + stock cam + ArUco is enough to *start*; Fixposition Vision-RTK 2 (**€4,050**, ~4 weeks, eats top deck) deferred.  
+- Do not invent site permissions for Pinchard's docks or cellular infrastructure.
 
 ---
 
 ## Suggested stacks (until funding path locks)
 
-1. **Fictionlab mid (CALQ draft 2026-08-10):** Leo DIY / unassembled + Powerbox + charging station + pads cover + spare pack + cable-opening cover + sandwich plate + camera mast + RUTX11 + RPLidar S3 (~€7.9k list/est. + solar shelter separate).  
+1. **Fictionlab mid (locked intent 2026-08-31, offer NK8/08/2026):** Leo **DIY** 1.9 + charging station + sandwich + RUTX11 + mast + RPLidar S3 + shipping (**€7,589** due). Powerbox + spare pack **free** (educational). Fictionlab custom bracket for mast+S3. Pads cover included with station. Fixposition out. Purchase when funded. [#86](https://github.com/adamsimms/rover/issues/86).  
 2. **Fictionlab high:** Raph (~€13k) + spare pack + shelter DIY dock; add stills payload if prints matter.  
 3. **Remote-first:** Lynx + quote WiBotic + confirm Canadian LTE bands — if LTE-in-box outweighs Fictionlab camera/dock.
 

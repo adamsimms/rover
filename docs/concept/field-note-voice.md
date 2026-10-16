@@ -8,7 +8,7 @@ Public concept: [conceptual-core.md](conceptual-core.md). Application packets: [
 
 The artist gives an image. The writer looks at it, opens Heritage NL DNE pages, MUN ELRC word-form slips (`elrcdne`), and (when trying grammar) the Dialect Atlas of Newfoundland and Labrador. The note may only lean on what was actually opened. That is **lookup and citation**, not training.
 
-- Heritage: `https://www.heritage.nf.ca/dictionary/azlist/{a-z}.html` and `.../pages/{n}.html`
+- Heritage: `https://www.heritage.nf.ca/dictionary/azlist/{a-z}.html` and entries at `https://www.heritage.nf.ca/dictionary/azlist/pages/{n}.html` (the A-Z list links are relative to `azlist/`; `dictionary/pages/{n}.html` soft-404s)
 - MUN slip: `https://collections.mun.ca/digital/collection/elrcdne/id/{id}/`
 - Atlas: `https://dialectatlas.mun.ca/` (grammar / pronunciation / words by community)
 - Quote, do not scrape. Do not dump entries into the repo.
