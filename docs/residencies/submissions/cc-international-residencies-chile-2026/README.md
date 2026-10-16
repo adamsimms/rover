@@ -27,8 +27,10 @@ Host acceptance letter and program PDF were uploaded to the portal and are not i
 
 ## Sibling
 
-Complementary CALQ Exploration and Research draft: [#86](https://github.com/adamsimms/rover/issues/86) (separate project from 2026-11-20; Leo prototype; **Chile costs stay on this CCA file only**). Arteles CALQ is [dreamberry#50](https://github.com/adamsimms/dreamberry/issues/50).
+Complementary Rover CALQ [#86](https://github.com/adamsimms/rover/issues/86) cancelled 2026-10-13. Chile costs stay on this CCA file only. Arteles CALQ is [dreamberry#50](https://github.com/adamsimms/dreamberry/issues/50).
 
 ## Follow-up
 
 Decision tracking opens when results land (posted intake window referenced at submit: October 21, 2026).
+
+2026-10-15: host confirmed a deferral to 23 October-13 November 2027. Portal IA-0000254837 was cancelled the same day. The resubmission is the [2027 packet](../cc-international-residencies-chile-2027/). This folder stays the 22 August 2026 submission.
