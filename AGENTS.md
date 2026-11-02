@@ -31,7 +31,7 @@ Issues here are about the work. Applications, calls, residencies and their deadl
 
 ## Private material
 
-Applications, organization and call records, the CV, contact details and private research notes (including the former vault notes, in `research/rover/`) live in the private repo **adamsimms/studio** (`~/Documents/GitHub/studio`; read its `AGENTS.md` first). This project's applications are `applications/<cycle>-<call>-rover/`. Nothing from studio comes into this repo unless an issue says so and Adam approved it. Never put a phone number or home address here; a global pre-commit guard blocks them.
+Applications, organization and call records, the CV, contact details and private research notes (`research/rover/`) live in the private repo **adamsimms/studio** (`~/Documents/GitHub/studio`; read its `AGENTS.md` first). This project's applications are `applications/<cycle>-<call>-rover/`. Nothing from studio comes into this repo unless an issue says so and Adam approved it. Never put a phone number or home address here; a global pre-commit guard blocks them.
 
 ## Project media
 

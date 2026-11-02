@@ -7,7 +7,7 @@ alwaysApply: true
 # Rover
 
 - Canonical docs live under `docs/`: conceptual core, decisions log (`docs/decisions/README.md`), open decisions, consent, hardware, model. Start from `AGENTS.md`.
-- Private material (applications, former vault notes, named people) lives in the private studio repo; never copy it here.
+- Private material (applications, private research notes, named people) lives in the private studio repo; never copy it here.
 - Do not invent permissions, consent, corpus rights, or funding facts. No archive partnership exists yet.
 - The fragments restrict the model by lookup and citation; never call them training data.
 - Do not commit corpora, CAD/HTML chassis mockups, or large binaries unless an issue explicitly asks.
