@@ -34,8 +34,7 @@ node_modules/
 # Create locally if missing: mkdir Sketchpad
 /Sketchpad/
 
-# Machine-specific vault path and multi-root workspace (home-directory paths).
-.cursor/rules/vault-local.mdc
+# Multi-root workspace (home-directory paths).
 *.code-workspace
 
 # Local screenshots / dumps (not project source)

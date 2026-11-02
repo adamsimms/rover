@@ -1,57 +1,28 @@
 # Rover
 
-A solar- and cellular-powered monitoring rover for Pinchard's Island, Newfoundland, paired with a language model that generates field notes from a deliberately incomplete linguistic and historical corpus. The work is not a claim of fluent belonging to the place — it is a machine trying, and often failing, to speak from fragments.
+*Uncertain Field Notes.* A solar- and cellular-powered rover for Pinchard's Island, Newfoundland (Ktaqmkuk), with a language model that writes field notes from what it photographs, held to a deliberately incomplete body of language and historical fragments. The work is not a claim of fluent belonging to the place — it is a machine trying, and often failing, to speak from fragments.
 
 The proposed device name is **Fielding**. A fuller literary homage is parked until permission is confirmed.
 
 ## Core concept
 
-The project's center is linguistic incompleteness. The model is intended to work from fragmentary Newfoundland language and historical materials (dictionary entries, resettlement-era records, and related archival vocabulary work) rather than from a complete living inheritance. Rights to use specific published sources for training are **not yet cleared**; until they are, this repo describes intent only and does not ship training corpora or claim licensed reuse.
+The project's center is linguistic incompleteness. A capable model is restricted, by lookup and citation, to fragmentary Newfoundland language and historical materials (dictionary entries, resettlement-era records, family oral history) rather than a complete living inheritance. The fragments are not training data. Rights to use specific sources are **not yet cleared** and no archive partnership exists; this repo describes intent only and ships no corpus text.
 
 In its best mode the system should mislabel, half-succeed, contradict itself, or ask questions instead of asserting descriptive authority. Field notes document uncertainty — they do not replace presence or inheritance.
 
 ## How this repository works
 
-One public repo. Roles stay separate:
-
-| Surface | Job |
-|---|---|
-| **Issues** | Atomic build/software/funding *tasks* (not essays or decision prose) |
-| **Milestones** | Due-date groupings; manual schedule checkpoints |
-| **Projects** | Public roadmap — see below |
-| **Discussions** | Announcements (public journal) vs Ideas (open research before a decision) |
-| **Wiki** | Runbooks / glossary / FAQ once seeded; prefer PRs to `docs/` for durable text |
-| **`docs/`** | Canonical public write-ups and the open-decisions register |
-
-Private working drafts stay in a local Obsidian vault and are published outward only when adapted. What stays out of this repo: funder-restricted application content, personal fallback finances, and anything that discusses living people in a consent-sensitive situation without their consent.
-
-See [docs/OPERATING-MODEL.md](docs/OPERATING-MODEL.md).
-
-## GitHub Projects
-
-| Board | Role |
-|-------|------|
-| **[Rover — R&D](https://github.com/users/adamsimms/projects/3)** | Concept, feasibility, hardware/software spikes, permissions, consent docs |
-| **[Rover — Funding](https://github.com/users/adamsimms/projects/4)** | Research/creation budgets and Milestone 3 grant package |
-| **[Rover — Residencies](https://github.com/users/adamsimms/projects/5)** | Shortlist, package, Milestone 2 apply wave, post-acceptance residency funding |
-
-### Milestones
-
-1. [Concept & feasibility](https://github.com/adamsimms/rover/milestone/2)
-2. [Residencies](https://github.com/adamsimms/rover/milestone/3)
-3. [Research & creation funding](https://github.com/adamsimms/rover/milestone/4)
-
-Per-application Issues (residencies or CALQ / Canada Council, etc.) are added when targets are chosen — not as one mega-submit Issue.
-
-Later (only if needed): Build, Deploy, Outputs.
+One public repo for the work: concept, ethics, hardware and model notes, and the decisions that hold whatever happens to any application. Issues are tasks; decisions go in [docs/decisions/](docs/decisions/README.md); open questions in [docs/open-decisions.md](docs/open-decisions.md). Applications and their records are kept privately, not here. Board: [Rover — R&D](https://github.com/users/adamsimms/projects/3). See [docs/OPERATING-MODEL.md](docs/OPERATING-MODEL.md).
 
 ## Documentation
 
 - [Conceptual core](docs/concept/conceptual-core.md)
-- [Hardware and power feasibility](docs/hardware/feasibility.md) (Milestone 1; estimates until spikes close)
-- [Leo vs Raph grant-tier comparison](docs/hardware/leo-vs-raph.md)
+- [Hardware and power feasibility](docs/hardware/feasibility.md) (estimates until spikes close)
+- [Leo vs Raph comparison](docs/hardware/leo-vs-raph.md)
 - [Guest protocol for Fielding](docs/consent/guest-protocol-fielding.md) (draft)
-- [Open decisions](docs/open-decisions.md)
+- [Decisions log](docs/decisions/README.md) · [Open decisions](docs/open-decisions.md)
+- [Corpus governance](docs/consent/corpus-governance.md)
+- [Bibliography](docs/BIBLIOGRAPHY.md) (generated from Zotero)
 - [Operating model](docs/OPERATING-MODEL.md)
 - [Corpus research leads](docs/model/corpus-research.md) (intent only)
 - [Language-model stack research](docs/model/stack-research.md) (does not close OD-004)
@@ -60,7 +31,9 @@ Later (only if needed): Build, Deploy, Outputs.
 
 This first ship is documentation only. There is no runnable training pipeline or checked-in onboard software yet.
 
-Hardware target (high level): three tiers. Year-1 PoC (Waveshare Beast + Pi 5), grant-tier commercial shortlist, and a custom winter Fielding build long range. See [hardware feasibility](docs/hardware/feasibility.md).
+Hardware (high level): two tiers. A Fictionlab Leo with dock for Year 1 and the winter test, then a custom winterized Fielding build for long unattended presence. See [hardware feasibility](docs/hardware/feasibility.md).
+
+Nothing large is kept in the repo. Renders, tests and photos live in the project's media folder (`MEDIA_DIR`, see `.env.example`); research sources are in the public Zotero library (Rover collection).
 
 ## Contributing
 
@@ -72,7 +45,7 @@ Dual license: **CC BY 4.0** for documentation and non-code content; **Apache-2.0
 
 ## References
 
-Links only — not an assertion of training rights. Expanding research leads: [docs/model/corpus-research.md](docs/model/corpus-research.md). Stack software leads: [docs/model/stack-research.md](docs/model/stack-research.md).
+Links only — not an assertion of rights to use. Expanding research leads: [docs/model/corpus-research.md](docs/model/corpus-research.md). Stack software leads: [docs/model/stack-research.md](docs/model/stack-research.md).
 
 - Dictionary of Newfoundland English (print and web editions; rights holders vary)
 - Encyclopedia of Newfoundland and Labrador (ENL) — rights/access path open

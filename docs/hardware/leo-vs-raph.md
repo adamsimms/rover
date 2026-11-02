@@ -2,7 +2,7 @@
 
 **Date:** 2026-08-06  
 **Purpose:** Grant-tier Fictionlab shortlist: side-by-side platform, add-ons, cost stacks, and how they sit vs Husarion Lynx for dock + cellular.  
-**Public canon** for this shortlist. Related vault notes (not a copy of this page): `Rover/MOCs/Rover - MOC - Chassis and Drivetrain.md`, `Rover/MOCs/Rover - MOC - Engineering Precedents.md`, `Rover/Notes/Rover - CITATION - Commercial rover survey findings - Leo Rover, Jackal, Husky, and others.md`. Dual-write a shortlist change to those MOCs in the same turn.  
+**Public canon** for this shortlist. Leo is the chosen platform (OD-013); Raph and Lynx stay as the comparison.  
 **Related:** [conceptual-core](../concept/conceptual-core.md).
 
 **Context (artist answers, 2026-08-06):** funding path TBD; lidar desirable; better still quality preferred; include charging/dock from day one; cellular vs solar Wi‑Fi open (may favor Lynx for LTE-in-box); ship to **Canada** unless Europe trip pickup.
@@ -180,7 +180,7 @@ If Pinchard’s / unsupervised remote is a near-term requirement, weight Lynx (o
 
 ## Suggested stacks (until funding path locks)
 
-1. **Fictionlab mid (locked intent 2026-08-31, offer NK8/08/2026):** Leo **DIY** 1.9 + charging station + sandwich + RUTX11 + mast + RPLidar S3 + shipping (**€7,589** due). Powerbox + spare pack **free** (educational). Fictionlab custom bracket for mast+S3. Pads cover included with station. Fixposition out. Purchase when funded. [#86](https://github.com/adamsimms/rover/issues/86).  
+1. **Fictionlab mid (locked intent 2026-08-31, offer NK8/08/2026):** Leo **DIY** 1.9 + charging station + sandwich + RUTX11 + mast + RPLidar S3 + shipping (**€7,589** due). Powerbox + spare pack **free** (educational). Fictionlab custom bracket for mast+S3. Pads cover included with station. Fixposition out. Purchase when funded.  
 2. **Fictionlab high:** Raph (~€13k) + spare pack + shelter DIY dock; add stills payload if prints matter.  
 3. **Remote-first:** Lynx + quote WiBotic + confirm Canadian LTE bands — if LTE-in-box outweighs Fictionlab camera/dock.
 

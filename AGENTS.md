@@ -1,63 +1,46 @@
 # Agent notes
 
-Rover is developed primarily with Cursor, in the open. Prefer **one milestone (or one issue) per chat** when the work is mechanical.
-
-## Canonical docs
-
-1. [docs/concept/conceptual-core.md](docs/concept/conceptual-core.md) — what the work is  
-2. [docs/OPERATING-MODEL.md](docs/OPERATING-MODEL.md) — public GitHub surfaces and private boundary  
-3. [docs/open-decisions.md](docs/open-decisions.md) — open decision register  
-4. [docs/decisions/](docs/decisions/) — settled ADRs (when present)  
-
-Also: [README.md](README.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE](LICENSE), [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), [SECURITY.md](SECURITY.md), residency process [docs/residencies/](docs/residencies/) (incl. [application-craft.md](docs/residencies/application-craft.md)), field-note voice [docs/concept/field-note-voice.md](docs/concept/field-note-voice.md).
-
-## Private vault, docs, and Sketchpad
-
-Working notes live in a local Obsidian vault (not this repo). A gitignored Cursor rule names the path on this machine. Start at the Studio Vault Index, then the Rover project index, then one topical MOC. Sibling projects (Glowberry, Dreamberry, Camera Philosophies) share that vault in per-project folders. Filename prefixes stay (`Rover -`, `Glowberry -`, and so on). Do not copy restricted material into this repo. Public `docs/` are the adapted canon.
-
-| Fact | Source of truth |
-|------|-----------------|
-| Tasks and dates | GitHub Issues |
-| Public concept and submitted packets | `docs/` |
-| Private reasoning, restricted asks, named people | Vault |
-| Scratch files | `Sketchpad/`, then delete or promote |
-
-**Dual-write:** when a chat changes a decision, apply-wave status, or hardware shortlist, update the vault note and the public `docs/` twin in the same turn. Do not keep a live copy in Sketchpad. Long application drafts stay in the vault (or Sketchpad) until submit; then a redacted packet goes to `docs/residencies/submissions/`.
-
-`Sketchpad/` is a git-ignored local playground (drafts, images, spikes). Cursor may read it as context; never commit its contents. Create with `mkdir Sketchpad` if missing. Not a source of truth and not a substitute for the private boundary in [docs/OPERATING-MODEL.md](docs/OPERATING-MODEL.md).
-
-## Bibliography / Zotero
-
-Zotero is the PDF and source library (Rover collection, tags such as `rover`). The vault does not sync with it. CITATION notes may record optional `citekey` / `zotero` breadcrumbs. Do not query `~/Zotero/zotero.sqlite`. Do not invent citations or dump corpora. Sketchpad `import_*_to_zotero.py` scripts are one-shot imports, not agent tools.
-
-## GitHub Projects
-
-| Board | Role |
-|-------|------|
-| **[Rover — R&D](https://github.com/users/adamsimms/projects/3)** | Concept, feasibility, spikes, permissions, consent docs |
-| **[Rover — Funding](https://github.com/users/adamsimms/projects/4)** | Research/creation money/timeline/fit; Milestone 3 grant package |
-| **[Rover — Residencies](https://github.com/users/adamsimms/projects/5)** | Shortlist, package; Milestone 2 apply wave; post-acceptance residency funding |
-
-Milestones: **1** Concept & feasibility → **2** Residencies → **3** Research & creation funding. Do not invent additional boards without an explicit ask. Put Issues on the board that owns the track (an Issue should not live on all three). Per-application Issues are created when targets are chosen. Priority: label + Project field (`priority:urgent` / `high` / `medium` / `low`) — see [docs/OPERATING-MODEL.md](docs/OPERATING-MODEL.md).
+Rover (*Uncertain Field Notes*), developed in the open. One milestone or one issue per chat when the work is mechanical.
 
 ## Hard rules
 
-- Do **not** invent site permissions, family/community consent, funder commitments, or corpus/training rights.
-- Do **not** commit training corpora, copyrighted dictionary/archive dumps, chassis CAD/HTML mockups, or large binaries unless an issue **explicitly** asks and the artist confirms.
-- Do **not** publish Little Bay Islands consent-sensitive material or funder essay/ask amounts where terms restrict discussion. See the private boundary in [docs/OPERATING-MODEL.md](docs/OPERATING-MODEL.md).
-- Device name **Fielding** may be used; do **not** expand the literary homage in public docs until permission is confirmed.
-- Prefer *rover*, *device*, or *machine* over *instrument* in application and public prose.
-- Corpus: describe *intent* only until rights are cleared — never imply licensed training reuse.
-- Dual license: docs/non-code → CC BY 4.0; software → Apache-2.0. See [LICENSE](LICENSE).
-- Never use the word “master” in new user-facing text, docs, comments, or identifiers (prefer *default branch*, *canonical*, *primary*).
-- Prefer label `software` (not `firmware`) for onboard/control code issues.
-- Issue titles have **no** `[docs]` / `[funding]` / `[residency]` (or similar) prefix. Kind and priority live on GitHub labels (`docs`, `funding`, `residency`, `priority:*`, …) and the Project Priority field. Do not put `title: "[docs] "` (or equivalent) back into issue templates.
+- Do **not** invent site permissions, family or community consent, funder commitments, or corpus rights. No archive partnership exists yet (OD-003).
+- The fragments restrict the model by lookup and citation; never describe them as training data or imply licensed reuse.
+- Do **not** commit corpora, copyrighted dictionary or archive text, chassis CAD or HTML mockups, or large binaries unless an issue explicitly asks and Adam confirms.
+- Device name **Fielding** may be used; do not expand the literary homage until permission is confirmed ([#23](https://github.com/adamsimms/rover/issues/23)). Prefer *rover*, *device* or *machine* over *instrument*.
+- Write Newfoundland (Ktaqmkuk) on first mention in public text.
+- No phase dates in `docs/`; dates live on issues.
+- Prefer the label `software` over `firmware`. Issue titles have no kind prefix; kind and priority live on labels.
+- Dual license: docs and non-code CC BY 4.0, software Apache-2.0 ([LICENSE](LICENSE)).
+- Secrets only via `.env`; see `.env.example`.
 
-## Model routing (guidance)
+## Canonical docs
 
-| Prefer | When |
-|--------|------|
-| Judgment-heavy model | Concept, consent ethics, grant *task* framing, tone |
-| Fast / mechanical model | Docs moves, templates, labels, git hygiene once decided |
+1. [docs/concept/conceptual-core.md](docs/concept/conceptual-core.md): what the work is
+2. [docs/decisions/README.md](docs/decisions/README.md): decisions log, one dated line per change
+3. [docs/open-decisions.md](docs/open-decisions.md): what is still open
+4. [docs/consent/](docs/consent/): guest protocol, corpus governance
+5. [docs/hardware/](docs/hardware/) and [docs/model/](docs/model/): feasibility and research leads
+6. [docs/OPERATING-MODEL.md](docs/OPERATING-MODEL.md): surfaces and the private boundary
 
-Pattern: `Work issue #N — … Follow docs/concept/conceptual-core.md and AGENTS.md.`
+Docs policy and the decisions rule (work decision vs proposal choice vs option): [`.cursor/rules/docs.mdc`](.cursor/rules/docs.mdc).
+
+## GitHub
+
+Issues here are about the work. Applications, calls, residencies and their deadlines are tracked in the private studio repo, not here. One project board: [R&D](https://github.com/users/adamsimms/projects/3).
+
+## Private material
+
+Applications, organization and call records, the CV, contact details and private research notes (including the former vault notes, in `research/rover/`) live in the private repo **adamsimms/studio** (`~/Documents/GitHub/studio`; read its `AGENTS.md` first). This project's applications are `applications/<cycle>-<call>-rover/`. Nothing from studio comes into this repo unless an issue says so and Adam approved it. Never put a phone number or home address here; a global pre-commit guard blocks them.
+
+## Project media
+
+Media (renders, maquettes, visual tests, experiment output, photos, video) never stays in this repo's ignored folders: they are not backed up. It goes to the project's synced Drive folder, `$MEDIA_DIR` (`30 STUDIO/32 PROJECTS/ROVER/`): `01 REFERENCES`, `02 STUDIES` (concept and visual exploration), `03 TESTS` (technical experiments), `04 ARTWORK` (the finished work's own media), `05 DOCUMENTATION` (one folder per activity, named like studio's). Inside 02 and 03, one dated folder per piece of work: `<YYYY-MM> <name>`. `Sketchpad/` is scratch.
+
+## Bibliography / Zotero
+
+Zotero is the source library (public library, Rover collection `33MT4SZP`). `docs/BIBLIOGRAPHY.md` is generated: `node ~/Documents/GitHub/studio/scripts/zotero/build-bibliography.mjs rover --out docs/BIBLIOGRAPHY.md`; never edit it by hand. Writing to Zotero is publishing: only approved batches. Never query `~/Zotero/zotero.sqlite`. Do not invent citations.
+
+## Support
+
+No funder support to acknowledge yet. When an award lands, add the funder and its acknowledgement wording here and in the README.

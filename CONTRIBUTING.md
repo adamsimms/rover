@@ -6,7 +6,7 @@ Thanks for your interest in Rover.
 
 1. Read the [README](README.md) and [docs/concept/conceptual-core.md](docs/concept/conceptual-core.md).
 2. Review the [Code of Conduct](CODE_OF_CONDUCT.md) and [SECURITY.md](SECURITY.md).
-3. Check [open issues](https://github.com/adamsimms/rover/issues), [Discussions](https://github.com/adamsimms/rover/discussions), and the project boards: [R&D](https://github.com/users/adamsimms/projects/3), [Funding](https://github.com/users/adamsimms/projects/4), [Residencies](https://github.com/users/adamsimms/projects/5).
+3. Check [open issues](https://github.com/adamsimms/rover/issues), [Discussions](https://github.com/adamsimms/rover/discussions), and the [R&D board](https://github.com/users/adamsimms/projects/3).
 
 ## What helps
 
@@ -22,8 +22,8 @@ Thanks for your interest in Rover.
 
 - **Do not** open PRs or Issues that dump copyrighted dictionaries, archival scans, books, or other training corpora
 - **Do not** upload personal data, private family material, or discussions of living people in consent-sensitive situations
-- **Do not** prefix Issue titles with `[docs]`, `[funding]`, `[residency]`, or similar. Kind lives on labels.
-- **Do not** treat Issues as a second decision log. Use Discussions for open research, `docs/decisions/` once settled.
+- **Do not** prefix Issue titles with `[docs]` or similar. Kind lives on labels.
+- **Do not** treat Issues as a second decision log. Use Discussions for open research, the decisions log in `docs/decisions/` once settled.
 - **Do not** cold-contact families, communities, or rights holders on behalf of the project without coordinating in an issue first
 
 ## Process
