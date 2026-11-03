@@ -1,8 +1,8 @@
 # Field-note voice (lookup prototype)
 
-Working reference for how the rover writes a field note from a photograph. Locked in studio while drafting US Letter samples for applications (working title *Uncertain Field Notes*). Not an ADR. Not a claim that the Dictionary of Newfoundland English is cleared to train on ([#19](https://github.com/adamsimms/rover/issues/19)).
+Working reference for how the rover writes a field note from a photograph. Locked while drafting US Letter samples for *Uncertain Field Notes*. Not an ADR. Not a claim that the Dictionary of Newfoundland English is cleared to train on ([#19](https://github.com/adamsimms/rover/issues/19)).
 
-Public concept: [conceptual-core.md](conceptual-core.md). Application packets: [residencies/application-craft.md](../residencies/application-craft.md).
+Public concept: [conceptual-core.md](conceptual-core.md).
 
 ## What the mechanic is
 

@@ -1,0 +1,40 @@
+---
+description: Keep docs sparse (contracts and decisions only); work decisions vs proposal choices vs options
+alwaysApply: true
+---
+
+# Documentation hygiene
+
+## Canonical docs
+
+| File | Role |
+|------|------|
+| `docs/concept/conceptual-core.md` | What the work is |
+| `docs/decisions/README.md` | Decisions log: one dated line per work decision |
+| `docs/open-decisions.md` | What is still open |
+| `docs/consent/`, `docs/hardware/`, `docs/model/` | Ethics and governance, feasibility, research leads |
+| `docs/BIBLIOGRAPHY.md` | Generated from Zotero; never edit by hand |
+
+Add another `docs/*.md` only if it is a decision record or an ops contract the code cannot own. Default: do not add a new doc.
+
+## Decisions: work, proposal, option
+
+- **Work decision** (true whatever happens to any application): edit the doc body it changes, then add one dated line to the decisions log saying what changed and where; remove the row from `open-decisions.md` if it was there. Delete log lines a later change supersedes; git keeps the history.
+- **Proposal choice** (made for one call: dates, budget, how to pitch, why this place): never goes here. It lives with the application in the private studio repo.
+- **Option or research** (a menu, a precedent, a finding): options go in the relevant doc's shortlist; precedents go to Zotero as notes on the item.
+
+## Never commit
+
+- Milestone or issue status diaries; ship status belongs in issues and PRs
+- Phase timelines or dates in docs (dates live on issues)
+- Agent routing, prompt patterns, model pickers (AGENTS.md only)
+- Links to chat transcripts
+- Application history, venue-specific pitch language, contact details
+
+## Keep in sync (same PR)
+
+| Change touches | Update |
+|---|---|
+| Public behaviour, how to run, how to fetch data not kept locally | `README.md` |
+| Concept, ethics, how the work behaves, infra decisions | the doc it changes + decisions log |
+| User- or ops-visible shipping note | `CHANGELOG.md` |

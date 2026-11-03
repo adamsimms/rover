@@ -20,12 +20,14 @@ Avoid importing Nation-specific kinship language (*kin*, *elder*, Nation protoco
 ## Guest rules
 
 1. **No terra nullius.** Land, memory, archives, and training materials are already inhabited by rights and absences. Do not treat Pinchard’s, the feed, or the corpus as empty raw material.
-2. **Permissions before presence.** Site access, docks, cellular, and named living people require real clearance — never invent consent ([OPERATING-MODEL.md](../OPERATING-MODEL.md)).
+2. **Permissions before presence.** Site access, docks, cellular, and named living people require real clearance — never invent consent ([OPERATING-MODEL.md](../OPERATING-MODEL.md)). Photographing is opt-in: only where permission has been given, not merely where it has not been refused.
 3. **Limited speech.** Prefer questions, provisional names, and self-revision over finished description. Misnaming and contradiction are allowed; fake local fluency is not.
 4. **Explicit refusals.** Fielding should be designed to **defer, ask, contradict, or withhold** when rights are thin, weather/power/wake limits apply, or content would invent people, graves, sacred material, or Indigenous terms/histories as if trained.
 5. **Camera ethics.** Imaging is part of guest presence. Do not imply partnership, surveillance authority, or “empty land” romance that erases who was or is there.
 6. **Extended stack.** Care runs from minerals and manufacture through solar/cellular energy, maintenance, who sees the feed, end-of-life, and departure — not only the language model. Use the checklist below when locking hardware or writing grant/residency prose.
-7. **Boundary with adjacent literature.** Learn method (locality, material entanglement, refusal, rights-before-scrape) from Indigenous Protocol / AI and related work. Do not claim those cosmologies, revitalization aims, or Nation protocols as Rover’s.
+7. **Host places.** At residencies away from Newfoundland, the stay is a stress test of mismatch, not a search for local material. Local speech never enters the corpus, and the place is not the work's cultural subject. Pinchard's Island is Indigenous land too: the guest stance applies at home as well.
+8. **Naming.** Write Newfoundland (Ktaqmkuk) on first mention in public text.
+9. **Boundary with adjacent literature.** Learn method (locality, material entanglement, refusal, rights-before-scrape) from Indigenous Protocol / AI and related work. Do not claim those cosmologies, revitalization aims, or Nation protocols as Rover’s.
 
 ## Extended-stack checklist
 
@@ -35,7 +37,7 @@ Informed by IP AI “ethical design to the extended stack” and Yolgörmez & Le
 |-------|-----------------------------|
 | **Materials / manufacture** | Where do chassis, cells, and boards come from? What labour and extraction sit upstream? Prefer repairable / spare-friendly kits over sealed black boxes when the concept allows. |
 | **Energy (solar & cellular)** | What Wh/day and radio duty cycle are claimed? Who pays the SIM? Is uplink intermittent by design? Parked solar must not be treated as free clean power without hedging weather and controller limits. |
-| **Maintenance** | Who travels to the site, how often, and under what access rules? Unattended = on dock or watched until return-to-dock is proven (OD-013). |
+| **Maintenance** | Who travels to the site, how often, and under what access rules? Year 1: unattended = on dock or watched until return-to-dock is proven (OD-012). Long unattended presence is for a later build. |
 | **Who sees the feed** | Public, private, delayed, redacted? Name the audience; do not imply open surveillance of living place or people. |
 | **End-of-life** | Batteries, plastics, radios: recovery path, leave-no-trace, or recycle plan. Nothing abandoned as “permanent infrastructure.” |
 | **Departure** | Removable guest presence (OD-012). When the project ends or consent thins, the machine leaves; the record can continue only under clear rights. |
@@ -44,8 +46,8 @@ Folded from [#84](https://github.com/adamsimms/rover/issues/84) into this page u
 
 ## Relation to other consent work
 
-- Living-contributor / interview consent: separate process ([#22](https://github.com/adamsimms/rover/issues/22); vault Outputs consent protocol).
+- Living-contributor / interview consent: separate process ([#22](https://github.com/adamsimms/rover/issues/22)). Corpus changes: [corpus governance](corpus-governance.md).
 - Public ethics writeup: this page ([#13](https://github.com/adamsimms/rover/issues/13) closed 2026-10-16). Guest-speech refusal samples track with [#15](https://github.com/adamsimms/rover/issues/15) Language-model approach (refusals folded from [#83](https://github.com/adamsimms/rover/issues/83)).
 - Corpus rights: [#19](https://github.com/adamsimms/rover/issues/19)–[#21](https://github.com/adamsimms/rover/issues/21).
 
-Status: draft for M1. Revise when site permissions, LM behavior, or site consent process lock.
+Status: draft. Revise when site permissions, model behaviour, or the site consent process lock.

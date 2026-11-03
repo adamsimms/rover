@@ -28,4 +28,4 @@ Path B (still open): start from a capable small open model, then constrain or fi
 - How bounded, cited fragments work mechanically
 - Onboard vs offboard serving and power
 - Photograph to field note
-- Phase 0 samples suitable to cite in grants and residencies (include guest-speech refusals: defer / ask / contradict / withhold; see [guest protocol](../consent/guest-protocol-fielding.md))
+- Phase 0 samples (include guest-speech refusals: defer / ask / contradict / withhold; see [guest protocol](../consent/guest-protocol-fielding.md))
