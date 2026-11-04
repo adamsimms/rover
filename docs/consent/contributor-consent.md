@@ -55,3 +55,7 @@ Following the *Mug Up* precedent:
 - Protocol applies identically to all participants, whether among the first or joining later.
 - Future participants may be shown, if they wish, how earlier participants' material has been used (in general terms) before deciding whether to join.
 - Any revision to this protocol is communicated to current participants, who may have consent re-confirmed under revised terms or withdraw.
+
+## Note on invitee involvement and model training
+
+Invitee involvement and model training assistance are not parallel workstreams. Invitees train and correct the model directly during the deployment phase — their participation IS the training assistance. This distinction matters for consent: participants are consenting to active model shaping, not observation alongside a separate technical process.
