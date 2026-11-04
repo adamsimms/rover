@@ -66,6 +66,31 @@ Separate engineering spec (rocker-bogie with wheelchair motors, LiFePO₄ with h
 
 **Highest paper-only risk for long unattended operation:** Witty Pi wake-on-charge ([#18](https://github.com/adamsimms/rover/issues/18)). Treat as an active risk until bench evidence lands. The Leo does not validate this tier.
 
+### Site conditions (Bonavista proxy data)
+
+Closest weather-normal station to Pinchard's Island with the same coastal exposure. Average wind 15.5 mph annually; 19.3 mph in January. Recorded extreme event (2018): sustained 100 km/h, gusts to 140 km/h. Wind force scales with velocity squared — a 140 km/h gust is roughly 20× the dynamic pressure of the average January month. Wind loading is a primary structural driver for the panel mount and pod.
+
+Snow: 35 cm is a typical event depth, not a worst case. With no windbreaks on an exposed island, one spot may be scoured bare while another sees over a metre of drift. Ground clearance is 13–18 cm (corrected from an earlier 25–35 cm estimate); the rover will sit buried during a real 35 cm event. Physical siting for pod and charging pad — including drift-line height and ramp orientation — requires an on-site visit.
+
+Salt air corrodes standard steel hardware, unsealed connectors, and bare PCB traces. Mitigations: marine-grade stainless fasteners, conformal coating on exposed PCBs, dielectric grease on connectors. The elevated pod with panel and antenna is a lightning-attraction point; basic grounding is cheap insurance.
+
+Two distinct failure modes beyond fogging: (1) snow infiltrating the chassis melts against powered components and the resulting water damages electronics sealed only against humidity (Greenland rover fix: a protective lid over electronics); (2) ice does not shed at 50° the way snow does — meltwater needs a no-pooling drainage path independent of tilt angle.
+
+### Commercial survey
+
+No commercial UGV fits year-long dormancy duty cycle. The Rover Pro (IP67, $9,200 USD), the best available option, maxes out at 1–2 hr drive / 5 hr idle. The gap is structural, not a budget issue: every commercial UGV is engineered around hours of active daily use, not year-long unattended dormancy. This validates the DIY build.
+
+### Hardware decisions (summary)
+
+Locked decisions for this tier are in [decisions/README.md](../decisions/README.md). Key architecture:
+
+- **Drivetrain:** 6WD rocker-bogie, fabricated suspension, IP65/67-rated industrial gearmotors, airless/foam-filled tires; no mecanum, no tracks.
+- **Camera:** HQ Camera (IMX477) primary; 3 fixed lenses (forward, down, sky) via multiplexer board; NoIR + 850 nm IR for true darkness; no pan/tilt servo; mast at 30–50 cm above chassis.
+- **Power:** 20–40 Ah LiFePO₄ with DIY silicone heating pad (no factory self-heating SKU in Canada under 50 Ah); Witty Pi 4 for wake-on-charge; firmware targets 50–80% SoC.
+- **Cable entry:** compressed closed-cell foam ports packed around cable bundles (from Clearpath Jackal); seals by compression rather than precision-fit glands.
+- **Snow survival:** combined movement + enclosed storm pod + localized lens heating. Pod is enclosed storm shelter only; default rest position is a separate open-air graded charging pad with panel side facing south.
+- **Pre-deployment:** mandatory cold snap and snow event test at a reachable coastal site (must exercise real driving loads, not just a function check). Deploy a fixed solar+LTE trail camera (Reolink Go) at Pinchard's before the rover goes in to validate cellular coverage and solar viability.
+
 ---
 
 ## Cost bands (summary)
@@ -94,6 +119,7 @@ Travel, site prep, contingency and carrier plans are separate ([#24](https://git
 | Camera architecture | [#16](https://github.com/adamsimms/rover/issues/16) | Hands-on Pi HQ / NoIR / mux spike |
 | Witty Pi wake-on-charge | [#18](https://github.com/adamsimms/rover/issues/18) | Bench test for the full build |
 | Extended-stack ethics (energy line) | [guest protocol](../consent/guest-protocol-fielding.md) | Checklist citing power and cellular choices |
+| Physical siting: pod/charging pad position, drift-line height, ramp orientation, antenna placement | on-site visit | Cannot resolve remotely; needed before Full Fielding deployment |
 
 ---
 
