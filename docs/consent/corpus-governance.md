@@ -17,3 +17,7 @@ The Dictionary of Newfoundland English, published resettlement records, and fami
 ## Open
 
 Who sits on the protocol, and whether others (scholars, artists) may propose additions under it.
+
+## What this does not resolve
+
+Some of the project's open questions are genuinely the artist's to leave open: whether the rover is a proxy or a resident, what permanence means, the AI/intelligence question. The Indigenous land-rights question is different in kind. Posing it without bringing in someone with actual standing to speak on it risks performing open-mindedness about a question that belongs to people who aren't in the room — the same thread the MFA feedback already flagged as raised-and-not-cashed. The honest framing: this question exists, it is not resolved through the artwork alone, and part of the project is determining whose voices need to be part of answering it rather than letting the rover ask it rhetorically and stop there.
