@@ -10,6 +10,10 @@ That framing is why "getting it right" as pure engineering is not enough on its 
 
 **Against extraction:** industrial AI gets its fluency by ingesting everything it can reach, including books cut apart to be scanned. Rover goes the other way: a small, fragmentary body of language that is held and safeguarded rather than possessed, and a machine that shows where the words run out.
 
+**Practice lineage:** the rover extends a prior practice of solar-powered, LTE-connected, long-duration outdoor camera work — Cloudberry (solar camera, year-long landscape documentation) and Adrift (weather-data virtual recreation). The move from fixed camera to mobile device is a physical extension of that practice, not a departure from it.
+
+**Thematic axes from naming research:** two threads run through the vocabulary and framing of the project. The first is the insider/outsider identity binary — Bayman/Townie/Livyer, the tension between belonging and passing through — which the rover literalizes as a machine from away that cannot inherit the place. The second is disguise and doubling — Janny (the costumed mummerer), Fetch (an Irish-NL folklore double of a living person sent somewhere they cannot be) — which frames Fielding as a proxy standing in for a presence that is not there.
+
 **Permissions:** the sources named for the corpus (the Dictionary of Newfoundland English, published resettlement records, family oral history) are not cleared for this use, and no archive partnership exists yet (OD-003). Public docs describe intent; this repo includes no corpus text. How the corpus is assembled and changed is governed by the [corpus governance](../consent/corpus-governance.md) page.
 
 **Naming:** the work is titled *Uncertain Field Notes*. The device is Fielding; a longer literary justification for that name is withheld until permission is confirmed ([#23](https://github.com/adamsimms/rover/issues/23)), and applications may hold the name out and say *rover*, *device* or *machine* (not *instrument*).
