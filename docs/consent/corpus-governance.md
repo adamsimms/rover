@@ -10,6 +10,10 @@ How the language fragments Fielding works from are gathered and changed. Draft; 
 4. **Restrict, don't train.** The fragments limit a capable model by lookup and citation. They are not training data (see [conceptual core](../concept/conceptual-core.md)).
 5. **Host places are not corpus.** At residencies away from Newfoundland, local speech never enters the corpus and the place is not the work's cultural subject (see the [guest protocol](guest-protocol-fielding.md)).
 
+## Corpus scope
+
+Newfoundland fragments are the constraint, not a geographic ceiling. A residency abroad does not enlarge the corpus — method travels, the NL tongue stays the tongue. Optional thin site interference (artist-authored residency notes, clearly licensed or host-permitted material) may be added later as *contamination* rather than a parallel world model: stained glass, not a bilingual world. Each new layer re-opens consent. Blocked until NL training rights (OD-003) are clearer; do not add abroad material before that track moves.
+
 ## Sources named so far
 
 The Dictionary of Newfoundland English, published resettlement records, and family oral history. Research leads: [corpus-research.md](../model/corpus-research.md).

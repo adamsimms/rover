@@ -6,7 +6,7 @@ Year-1 compute in public feasibility is a Raspberry Pi 5 8GB with no ML accelera
 
 ## Pedagogy (learning lab, not Fielding's voice)
 
-- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) (Raschka, *Build a Large Language Model (From Scratch)*). Laptop-scale GPT pipeline. Useful for a Phase 0 lab. A tiny network trained from scratch fails because it is small and undertrained. That is not the artwork's linguistic incompleteness.
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) (Raschka, *Build a Large Language Model (From Scratch)*). Laptop-scale GPT pipeline. Useful for a Phase 0 lab. A tiny network trained from scratch fails because it is small and undertrained — that is engineering poverty. Fielding's pressure is linguistic incompleteness: a capable model working from fragmentary NL materials, misnaming, contradicting itself, citing gaps. These two failures are easy to conflate in a grant sample; label any Raschka-stack output as a lab artifact, not as Fielding's voice.
 
 ## Device agent (lookups and refusal, not the note)
 
