@@ -44,6 +44,8 @@ Two jobs; one cheap sensor should not do both (OD-009; spike [#16](https://githu
 
 NoIR / 850 nm / multiplexer path stays open until [#16](https://github.com/adamsimms/rover/issues/16) closes.
 
+**Software levers for image quality (free, build in from day one):** long exposure (multi-second exposures via libcamera/Picamera2 — recovers dusk/dawn/overcast/moonlit-snow light; no help in true darkness) and HDR/exposure bracketing (2-3 shots merged for simultaneous detail in bright snow and dark shadow — directly useful for high-contrast winter scenes at low sun angle). Both apply to any CSI camera on this stack.
+
 ### Power and solar
 
 The Leo runs on its battery and charges on the dock. Solar on the **rover** is a **parked trickle**, not driving power: motors outspend a ~10 W panel while moving. A ~10 W panel might give **~10–25 Wh/day** on a good coastal summer day and near zero when overcast (estimate). "Solar-powered" in public prose means that hedge, not autonomy.

@@ -14,6 +14,8 @@ Register of decisions that are still open in public. When something resolves, re
 | OD-014 | Cellular modem architecture | Open | RUTX11 in the Leo stack vs a Pi HAT (Sixfab Base HAT + EC25, or Waveshare SIM7600); Canada bands; power off between uploads. [#88](https://github.com/adamsimms/rover/issues/88) |
 | OD-015 | Finished form | Open | Candidates named in applications: a living, self-revising record; a book or evolving glossary; curated photograph-and-note prints. Not decided. |
 | OD-016 | Winter dormancy | Open | Whether Fielding keeps running through its first winter or goes dormant is unknown and the project is not designed toward either outcome. Dormancy is treated as material to work with, not lost time. Affects output timing and Residency B planning. |
+| OD-017 | Full-resolution capture storage | Open | Local storage on the Pi as source of truth vs cellular upload; with a year between visits and no guarantee every capture clears LTE, full-res archival storage is a separate decision from the live-drive 480p stream (comfortably within LTE). Related to OD-014. |
+| OD-018 | WebRTC signaling server hosting | Open | A small VPS or STUN/TURN provider for NAT traversal is required for teleop; must maintain uptime for the duration of unattended deployment. Hosting not yet decided. |
 
 Add rows freely. Prefer Issues for *tasks* that implement a decision; keep this register for the decision itself. No phase dates here: the work develops over years as it goes, and dates live on issues.
 

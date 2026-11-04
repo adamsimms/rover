@@ -4,6 +4,10 @@ Work decisions: true whatever happens to any application. Each changes a doc's b
 
 ## Log
 
+- 2026-11-03: Teleop drive input uses the browser Gamepad API (standard USB/BT gamepad or on-screen touch virtual joystick); no dedicated hardware controller needed. [model/stack-research](../model/stack-research.md).
+- 2026-11-03: Safety architecture: lightweight obstacle-veto failsafe (ultrasonic distance check refuses a forward drive command; never initiates movement; explicit override to proceed); not full autonomous navigation. Full Fielding build.
+- 2026-11-03: Skip full autonomy, LIDAR, and depth cameras. Rover is teleoperated plus scheduled-capture; consumer/hobby LIDAR and active-IR depth cameras are unsuitable for coastal outdoor use; passive-stereo (ZED) requires Jetson-class compute. Full Fielding build.
+- 2026-11-03: OTA firmware update mechanism and safe power-on default (sleep/report, don't drive, on unexpected reboot) are day-one requirements for any unattended deployment. Full Fielding build.
 - 2026-11-02: The fragments restrict a capable model by lookup and citation; they are not training data. [conceptual-core](../concept/conceptual-core.md), [corpus-governance](../consent/corpus-governance.md), OD-004.
 - 2026-11-02: Title is *Uncertain Field Notes*; the device is Fielding, held out of applications when the homage cannot be explained (was OD-011). [conceptual-core](../concept/conceptual-core.md).
 - 2026-11-02: Platform is the Fictionlab Leo with dock for Year 1 and the winter test; the tracked Waveshare Beast proof of concept is dropped (was OD-013). [hardware/feasibility](../hardware/feasibility.md).
