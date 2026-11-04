@@ -73,6 +73,7 @@ Cross-link: [#24](https://github.com/adamsimms/rover/issues/24) build cost.
 | Line | Band | Conf. |
 |------|------|-------|
 | Leo stack (offer NK8/08/2026) | **€7,589** | Q |
+| Pi HQ Camera and lens | ~**CAD 100–200** | E |
 | Raph assembled + DIY dock (comparison) | ~**€13,000+** | E |
 | Lynx configured + dock options (comparison) | often **€15k–20k+** | Q |
 | Full custom Fielding build | ~**CAD 3,550–4,750** | E |
