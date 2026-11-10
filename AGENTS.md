@@ -35,7 +35,7 @@ Applications, organization and call records, the CV, contact details and private
 
 ## Project media
 
-Media (renders, maquettes, visual tests, experiment output, photos, video) never stays in this repo's ignored folders: they are not backed up. It goes to the project's synced Drive folder, `$MEDIA_DIR` (`30 STUDIO/32 PROJECTS/ROVER/`): `01-REFERENCES`, `02-STUDIES` (concept and visual exploration), `03-TESTS` (technical experiments), `04-ARTWORK` (the finished work's own media), `05-DOCUMENTATION` (one folder per activity, named like studio's). Inside 02 and 03, one dated folder per piece of work: `<YYYY-MM>-<name>`. `Sketchpad/` is scratch.
+Media (renders, maquettes, visual tests, experiment output, photos, video) never stays in this repo's ignored folders: they are not backed up. It goes to the project's synced Drive folder, `$MEDIA_DIR` (`30 STUDIO/32 PROJECTS/ROVER/`): `01-REFERENCES`, `02-STUDIES` (concept and visual exploration), `03-TESTS` (technical experiments), `04-ARTWORK` (the finished work's own media), `05-DOCUMENTATION` (one folder per activity, named like studio's). Inside 02 and 03, one dated folder per piece of work: `<YYYY-MM>-<NAME>`. `Sketchpad/` is scratch.
 
 ## Bibliography / Zotero
 
