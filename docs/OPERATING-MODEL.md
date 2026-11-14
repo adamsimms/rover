@@ -44,7 +44,7 @@ Build costs, open engineering trade-offs, consent and governance *protocols* as 
 
 ## Scratch and media
 
-`Sketchpad/` is a git-ignored scratch folder; nothing in it is a source of truth. Renders, tests, photos and other media go to the project's synced media folder (`MEDIA_DIR`, see `.env.example`), not to ignored folders in this repo.
+`Sketchpad/` is a git-ignored scratch folder; nothing in it is a source of truth. Renders, tests, photos and other media go to the project's media folder (`MEDIA_DIR`, see `.env.example`), which is pushed to off-site storage,, not to ignored folders in this repo.
 
 ## Schedule
 
